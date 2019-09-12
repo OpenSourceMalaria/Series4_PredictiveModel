@@ -12,7 +12,9 @@ A subsequent round is [currently on-going](https://github.com/OpenSourceMalaria/
 
 The paper is being written up in the GoogleDoc [here](https://docs.google.com/document/d/1aD29GjC8RjqrSDcWcEUptS04Z2v10deReRp0eB3kcp4/edit?usp=sharing). Please edit accordingly.
 
+- Abstract needs writing.
 - The basis for the introduction has been written up but still needs expanding in some areas.
 - A very brief description of Round 1 is there but more information is required about the details of each of the original submitted models.
 - A graphical summary of the judging and results of the Round 1 submissions needs to be created.
 - The easiest thing is to be writing up anything that's happening in Round 2 as we go. If you have been participating in this round, it would be great if you could add anything relevant to the paper that describe your models/methods.
+- Conclusions need writing.
