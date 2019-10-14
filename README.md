@@ -12,7 +12,7 @@ We need to develop ways to predict new and potent Series 4 compounds in the abse
 
 A subsequent round is [currently on-going](https://github.com/OpenSourceMalaria/Series4_PredictiveModel/wiki/Round-2) with the aim of involving companies and individuals specialising in AI and machine learning.
 
-**If you would like to participate, there is still time. All the relevant information can be found in either the [Wiki](https://github.com/OpenSourceMalaria/Series4_PredictiveModel/wiki) or [this issue](https://github.com/OpenSourceMalaria/Series4_PredictiveModel/issues/1). If you have any questions, please post on the issue.**
+**Round 2 has now concluded. Thanks to all involved. The judging is underway and the results will be announced in the coming weeks**
 
 # What is currently needed for the paper?
 
