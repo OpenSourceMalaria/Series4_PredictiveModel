@@ -16,7 +16,7 @@ A subsequent round is [currently on-going](https://github.com/OpenSourceMalaria/
 
 # What is currently needed for the paper?
 
-The paper is being written up in the GoogleDoc [here](https://docs.google.com/document/d/1aD29GjC8RjqrSDcWcEUptS04Z2v10deReRp0eB3kcp4/edit?usp=sharing). Please edit accordingly.
+The paper is being written up in the GoogleDoc [here](https://docs.google.com/document/d/1aD29GjC8RjqrSDcWcEUptS04Z2v10deReRp0eB3kcp4/edit?usp=sharing). Please edit accordingly. Tinyurl is https://tinyurl.com/OSMPredict
 
 - Abstract is as above. Edits discussed [here](https://github.com/OpenSourceMalaria/Series4_PredictiveModel/issues/6)
 - The basis for the introduction has been written up but still needs expanding in some areas.
