@@ -1,4 +1,4 @@
-# This competition has been written up and is on [ChemRXiv](https://chemrxiv.org/articles/preprint/An_Open_Drug_Discovery_Competition_Experimental_Validation_of_Predictive_Models_in_a_Series_of_Novel_Antimalarials/13194755). The scientific challenge remains open. If you're interested in pursuing further, either start an issue on this repository or ping @O_S_M on Twitter.
+## This competition has been written up and is on [ChemRXiv](https://chemrxiv.org/articles/preprint/An_Open_Drug_Discovery_Competition_Experimental_Validation_of_Predictive_Models_in_a_Series_of_Novel_Antimalarials/13194755). The scientific challenge remains open. If you're interested in pursuing further, either start an issue on this repository or ping @O_S_M on Twitter.
 
 # Abstract
 
