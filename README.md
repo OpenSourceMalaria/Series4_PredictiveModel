@@ -1,3 +1,5 @@
+# This competition has been written up and is on [ChemRXiv](https://chemrxiv.org/articles/preprint/An_Open_Drug_Discovery_Competition_Experimental_Validation_of_Predictive_Models_in_a_Series_of_Novel_Antimalarials/13194755). The scientific challenge remains open. If you're interested in pursuing further, either start an issue on this repository or ping @O_S_M on Twitter.
+
 # Abstract
 
 The discovery of new antimalarial medicines with novel mechanisms of action is key to combating the increasing reports of resistance to our frontline treatments. The Open Source Malaria (OSM) consortium have been developing compounds ("Series 4") which possess potent activity against _Plasmodium falciparum_ _in vitro_ and _in vivo_ and have been suggested to act through the inhibition of PfATP4, an essential ion pump in the parasite membrane that regulates intracellular Na+ and H+ concentrations. This pump has not yet been crystallised, so in the absence of structural information about this target, a public competition was created to develop a model that would allow us to predict when compounds in Series 4 are likely to be active.
