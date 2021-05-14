@@ -1,0 +1,441 @@
+OSM_ID	Series	Assay	Value	Qualifier	PfaI EC50 (Inh)	Pfal IC50 (GSK)	Pfal IC50 (Syngene)	Pfal IC50 (Dundee)	Pfal IC50 (Avery)	Pfal (K1) IC50 (Avery)	Pfal IC50 (Ralph)	Pfal IC50 (Guy)	Pfal (K1) IC50 (Guy)	Pfal IC50 (Batra)	Pfal (K1) IC50 (Batra)	Pfal (3D7) IC50 (Broad)	Pfal (Dd2) IC50 (Broad)	Canonical_Smiles	InChIKey
+OSM-A-1	1	Pfal IC50 (Guy)	3.05	=								3.05	4.379					Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(cc4)S(=O)(=O)N	ODRSSOQWOHNABY-MOSHPQCFSA-N
+OSM-A-1	1	Pfal (K1) IC50 (Guy)	4.379	=								3.05	4.379					Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(cc4)S(=O)(=O)N	ODRSSOQWOHNABY-MOSHPQCFSA-N
+OSM-A-2	1	Pfal IC50 (Guy)	0.574	=								0.574	1.829					Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(cc4)C#N	LXPLFPVISCVJSC-BKUYFWCQSA-N
+OSM-A-2	1	Pfal (K1) IC50 (Guy)	1.829	=								0.574	1.829					Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(cc4)C#N	LXPLFPVISCVJSC-BKUYFWCQSA-N
+OSM-A-3	1	Pfal IC50 (Guy)	0.098	=								0.098	0.14					Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(I)cc4	LZWDTKNFRNEIKZ-MOSHPQCFSA-N
+OSM-A-3	1	Pfal (K1) IC50 (Guy)	0.14	=								0.098	0.14					Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(I)cc4	LZWDTKNFRNEIKZ-MOSHPQCFSA-N
+OSM-E-1	1	Pfal IC50 (Dundee)	50	>				>50										CN(CC(=O)N)S(=O)(=O)c1cc(C)n(c1C)c2ccc(F)cc2	KRDORFFFZGUMFF-UHFFFAOYSA-N
+OSM-E-2	1	Pfal IC50 (Dundee)	50	>				>50										Cc1cc(c(C)n1c2ccc(F)cc2)S(=O)(=O)NCC(=O)N	RMHRPTFDPMUFGU-UHFFFAOYSA-N
+OSM-E-3	1	Pfal IC50 (Dundee)	50	>				>50										CN(CC(=O)N)S(=O)(=O)c1c(C)n(c(C)c1S(=O)(=O)N(C)CC(=O)N)c2ccc(F)cc2	TZMPVBDMPWKREJ-UHFFFAOYSA-N
+OSM-E-4	1	Pfal IC50 (Dundee)	50	>				>50										Fc1ccc(cc1)n2cc(COC(=O)CBr)nn2	UNGOTBWYUGGCJU-UHFFFAOYSA-N
+OSM-E-5	1	Pfal IC50 (Dundee)	50	>				>50										CCOC(=O)COCc1cn(nn1)c2ccc(F)cc2	OAQNGCWJHOFYIG-UHFFFAOYSA-N
+OSM-E-6	1	Pfal IC50 (Dundee)	50	>				>50										COC(=O)COCc1cn(nn1)c2ccc(F)cc2	MXCBYXCXBDMCMO-UHFFFAOYSA-N
+OSM-E-7	1	Pfal IC50 (Dundee)	50	>				>50										Fc1ccc(cc1)n2cc(COCC(=O)OCc3cn(nn3)c4ccc(F)cc4)nn2	CWJPLXSSRWVEAF-UHFFFAOYSA-N
+OSM-E-8	1	Pfal IC50 (Dundee)	50	>				>50										NC(=O)COCc1cn(nn1)c2ccc(F)cc2	XMSVYANCVZPQJL-UHFFFAOYSA-N
+OSM-L-1	1	Pfal IC50 (Batra)	3.2	=										3.2	>5			Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(C2=O)c4ccccc4)c(C)n1c5cccc(F)c5	URZLHIHAUACTCO-DUPRQXJUSA-N
+OSM-L-1	1	Pfal (K1) IC50 (Batra)	5	>										3.2	>5			Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(C2=O)c4ccccc4)c(C)n1c5cccc(F)c5	URZLHIHAUACTCO-DUPRQXJUSA-N
+OSM-S-10	1	Pfal IC50 (GSK)	0.032	=		0.032			0.176	0.361	0.201							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(F)cc4	IMCPBTMVWRMBHR-MOSHPQCFSA-N
+OSM-S-10	1	Pfal IC50 (Avery)	0.176	=		0.032			0.176	0.361	0.201							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(F)cc4	IMCPBTMVWRMBHR-MOSHPQCFSA-N
+OSM-S-10	1	Pfal (K1) IC50 (Avery)	0.361	=		0.032			0.176	0.361	0.201							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(F)cc4	IMCPBTMVWRMBHR-MOSHPQCFSA-N
+OSM-S-10	1	Pfal IC50 (Ralph)	0.201	=		0.032			0.176	0.361	0.201							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(F)cc4	IMCPBTMVWRMBHR-MOSHPQCFSA-N
+OSM-S-108	1	Pfal IC50 (Avery)	1.2	=					1.2									Cc1cc(C=C2SC(=Nc3ccccc3)NC2=O)c(C)[nH]1	RARJKBCELXYZBB-UHFFFAOYSA-N
+OSM-S-109	1	Pfal IC50 (Avery)	0.262	=					0.262									Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(cc4)[N+](=O)[O-]	CHHZBZWZMLCOEW-MOSHPQCFSA-N
+OSM-S-110	1	Pfal IC50 (Avery)	2.3	=					2.3									Cc1cc(\C=C\2/S\C(=N/c3cccc(O)c3)\NC2=O)c(C)n1c4ccc(cc4)[N+](=O)[O-]	NAHYEQMJTBIJRP-JAIQZWGSSA-N
+OSM-S-111	1	Pfal IC50 (Avery)	0.146	=					0.146			0.147	0.204					COc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	KXIVXNPEYYNDHE-STZFKDTASA-N
+OSM-S-111	1	Pfal IC50 (Guy)	0.147	=					0.146			0.147	0.204					COc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	KXIVXNPEYYNDHE-STZFKDTASA-N
+OSM-S-111	1	Pfal (K1) IC50 (Guy)	0.204	=					0.146			0.147	0.204					COc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	KXIVXNPEYYNDHE-STZFKDTASA-N
+OSM-S-112	1	Pfal IC50 (Avery)	1.6	=					1.6									COc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4cccc(O)c4)\NC3=O)c2C	RTYHWQWUZGEAOW-MTJSOVHGSA-N
+OSM-S-114	1	Pfal IC50 (Avery)	1.2	=					1.2									Cc1cc(\C=C\2/S\C(=N/c3cccc(O)c3)\NC2=O)c(C)n1c4ccccc4	ASANPQFHMMSZFH-NDENLUEZSA-N
+OSM-S-115	1	Pfal IC50 (Avery)	1.8	=					1.8									Cc1cc(\C=C\2/S\C(=N/c3ccc(O)cc3)\NC2=O)c(C)n1c4ccccc4	OIEJMTDGFAFKDZ-MOSHPQCFSA-N
+OSM-S-116	1	Pfal IC50 (Avery)	11	=					11									CC(OC(=O)c1cc(C)n(c1C)c2ccc(F)cc2)C(=O)N	JKLVGXNSTVWIID-UHFFFAOYSA-N
+OSM-S-138	1	Pfal IC50 (Avery)	2.3	=					2.3									Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(N)cc4	HRLJSVOIZGABSH-MOSHPQCFSA-N
+OSM-S-16	1	Pfal IC50 (GSK)	5	>		>5			0		0							CN1N(C(=O)C(=C1C)NC(=O)CNC(=O)c2ccccc2)c3ccccc3	URWSDMBJVGVIQC-UHFFFAOYSA-N
+OSM-S-19	1	Pfal IC50 (GSK)	5	>		>5			25-80% at 80 micromolar		0							Cc1cc(C(=O)NCC(=O)N)c(C)n1c2ccc(F)cc2	NNGDJLZNBQLHHL-UHFFFAOYSA-N
+OSM-S-2	1	Pfal IC50 (GSK)	5	>		>5			60% at 120 micromolar	50% at 120 micromolar	>1							Cc1cc(C=O)c(C)n1c2ccc(F)cc2	COLPZCHNJIVKMV-UHFFFAOYSA-N
+OSM-S-2	1	Pfal IC50 (Ralph)	1	>		>5			60% at 120 micromolar	50% at 120 micromolar	>1							Cc1cc(C=O)c(C)n1c2ccc(F)cc2	COLPZCHNJIVKMV-UHFFFAOYSA-N
+OSM-S-21	1	Pfal IC50 (GSK)	5	>		>5			31		0							CN1N(C(=O)C(=C1C)NC(=O)CNC(=O)c2cc(C)n(c2C)c3ccc(F)cc3)c4ccccc4	RRYQCWKAZAVYJI-UHFFFAOYSA-N
+OSM-S-21	1	Pfal IC50 (Avery)	31	=		>5			31		0							CN1N(C(=O)C(=C1C)NC(=O)CNC(=O)c2cc(C)n(c2C)c3ccc(F)cc3)c4ccccc4	RRYQCWKAZAVYJI-UHFFFAOYSA-N
+OSM-S-3	1	Pfal IC50 (GSK)	5	>		>5			11.96	12.4	>1							CCOC(=O)c1cc(C)n(c1C)c2ccc(F)cc2	BFRWWAGLFICHEG-UHFFFAOYSA-N
+OSM-S-3	1	Pfal IC50 (Avery)	11.96	=		>5			11.96	12.4	>1							CCOC(=O)c1cc(C)n(c1C)c2ccc(F)cc2	BFRWWAGLFICHEG-UHFFFAOYSA-N
+OSM-S-3	1	Pfal (K1) IC50 (Avery)	12.4	=		>5			11.96	12.4	>1							CCOC(=O)c1cc(C)n(c1C)c2ccc(F)cc2	BFRWWAGLFICHEG-UHFFFAOYSA-N
+OSM-S-3	1	Pfal IC50 (Ralph)	1	>		>5			11.96	12.4	>1							CCOC(=O)c1cc(C)n(c1C)c2ccc(F)cc2	BFRWWAGLFICHEG-UHFFFAOYSA-N
+OSM-S-35	1	Pfal IC50 (GSK)	0.036	=		0.036; 0.012			0.026; 0.038		0.011							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccc4	QTDBAHFMTAMGMZ-ZHZULCJRSA-N
+OSM-S-35	1	Pfal IC50 (GSK)	0.012	=		0.036; 0.012			0.026; 0.038		0.011							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccc4	QTDBAHFMTAMGMZ-ZHZULCJRSA-N
+OSM-S-35	1	Pfal IC50 (Avery)	0.026	=		0.036; 0.012			0.026; 0.038		0.011							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccc4	QTDBAHFMTAMGMZ-ZHZULCJRSA-N
+OSM-S-35	1	Pfal IC50 (Avery)	0.038	=		0.036; 0.012			0.026; 0.038		0.011							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccc4	QTDBAHFMTAMGMZ-ZHZULCJRSA-N
+OSM-S-35	1	Pfal IC50 (Ralph)	0.011	=		0.036; 0.012			0.026; 0.038		0.011							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccc4	QTDBAHFMTAMGMZ-ZHZULCJRSA-N
+OSM-S-37	1	Pfal IC50 (GSK)	0.028	=		0.028; 0.015			0.015		0.009	0.161	0.176					Cc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	XCTPMKNSBDOHRB-STZFKDTASA-N
+OSM-S-37	1	Pfal IC50 (GSK)	0.015	=		0.028; 0.015			0.015		0.009	0.161	0.176					Cc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	XCTPMKNSBDOHRB-STZFKDTASA-N
+OSM-S-37	1	Pfal IC50 (Avery)	0.015	=		0.028; 0.015			0.015		0.009	0.161	0.176					Cc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	XCTPMKNSBDOHRB-STZFKDTASA-N
+OSM-S-37	1	Pfal IC50 (Ralph)	0.009	=		0.028; 0.015			0.015		0.009	0.161	0.176					Cc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	XCTPMKNSBDOHRB-STZFKDTASA-N
+OSM-S-37	1	Pfal IC50 (Guy)	0.161	=		0.028; 0.015			0.015		0.009	0.161	0.176					Cc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	XCTPMKNSBDOHRB-STZFKDTASA-N
+OSM-S-37	1	Pfal (K1) IC50 (Guy)	0.176	=		0.028; 0.015			0.015		0.009	0.161	0.176					Cc1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	XCTPMKNSBDOHRB-STZFKDTASA-N
+OSM-S-38	1	Pfal IC50 (GSK)	0.029	=		0.029			0.002		0.205							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(cc4)C(F)(F)F	YBBWTVGRVHTTDD-MOSHPQCFSA-N
+OSM-S-38	1	Pfal IC50 (Avery)	0.002	=		0.029			0.002		0.205							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(cc4)C(F)(F)F	YBBWTVGRVHTTDD-MOSHPQCFSA-N
+OSM-S-38	1	Pfal IC50 (Ralph)	0.205	=		0.029			0.002		0.205							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccc(cc4)C(F)(F)F	YBBWTVGRVHTTDD-MOSHPQCFSA-N
+OSM-S-39	1	Pfal IC50 (GSK)	0.007	=		0.007; 0.121			0.001		0.005							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4cc(cc(c4)C(F)(F)F)C(F)(F)F	GVGNOLWIUGQIHW-UKWGHVSLSA-N
+OSM-S-39	1	Pfal IC50 (GSK)	0.121	=		0.007; 0.121			0.001		0.005							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4cc(cc(c4)C(F)(F)F)C(F)(F)F	GVGNOLWIUGQIHW-UKWGHVSLSA-N
+OSM-S-39	1	Pfal IC50 (Avery)	0.001	=		0.007; 0.121			0.001		0.005							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4cc(cc(c4)C(F)(F)F)C(F)(F)F	GVGNOLWIUGQIHW-UKWGHVSLSA-N
+OSM-S-39	1	Pfal IC50 (Ralph)	0.005	=		0.007; 0.121			0.001		0.005							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4cc(cc(c4)C(F)(F)F)C(F)(F)F	GVGNOLWIUGQIHW-UKWGHVSLSA-N
+OSM-S-4	1	Pfal IC50 (GSK)	5	>		>5			75% at 120 micromolar	50% at 120 micromolar	>1							Cc1cc(C(=O)O)c(C)n1c2ccc(F)cc2	UHSNGSYVRLIXCX-UHFFFAOYSA-N
+OSM-S-4	1	Pfal IC50 (Ralph)	1	>		>5			75% at 120 micromolar	50% at 120 micromolar	>1							Cc1cc(C(=O)O)c(C)n1c2ccc(F)cc2	UHSNGSYVRLIXCX-UHFFFAOYSA-N
+OSM-S-42	1	Pfal IC50 (GSK)	5	>		>5			nd		0							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(CC#N)C2=O)c(C)n1c4ccc(cc4)C(F)(F)F	CYTCJKBOZWMCAR-LIOGHISXSA-N
+OSM-S-43	1	Pfal IC50 (GSK)	5	>		>5			3.12		0							Cc1cc(\C=C\2/SC(=NC2=O)N(CC#N)c3ccccc3)c(C)n1c4ccc(cc4)C(F)(F)F	ZNJGLEUSFVBSML-JCMHNJIXSA-N
+OSM-S-43	1	Pfal IC50 (Avery)	3.12	=		>5			3.12		0							Cc1cc(\C=C\2/SC(=NC2=O)N(CC#N)c3ccccc3)c(C)n1c4ccc(cc4)C(F)(F)F	ZNJGLEUSFVBSML-JCMHNJIXSA-N
+OSM-S-45	1	Pfal IC50 (GSK)	0.026	=		0.026			0.012		0.008							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(cc3)C(F)(F)F)\S1)c4ccccc4	KOJDOQBSBJSPKC-HMAPJEAMSA-N
+OSM-S-45	1	Pfal IC50 (Avery)	0.012	=		0.026			0.012		0.008							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(cc3)C(F)(F)F)\S1)c4ccccc4	KOJDOQBSBJSPKC-HMAPJEAMSA-N
+OSM-S-45	1	Pfal IC50 (Ralph)	0.008	=		0.026			0.012		0.008							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(cc3)C(F)(F)F)\S1)c4ccccc4	KOJDOQBSBJSPKC-HMAPJEAMSA-N
+OSM-S-48	1	Pfal IC50 (GSK)	0.267	=		0.267			0.169		0.339							CCOC(=O)c1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	RDXBLRRUYBTFEI-JCMHNJIXSA-N
+OSM-S-48	1	Pfal IC50 (Avery)	0.169	=		0.267			0.169		0.339							CCOC(=O)c1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	RDXBLRRUYBTFEI-JCMHNJIXSA-N
+OSM-S-48	1	Pfal IC50 (Ralph)	0.339	=		0.267			0.169		0.339							CCOC(=O)c1ccc(cc1)n2c(C)cc(\C=C\3/S\C(=N/c4ccccc4)\NC3=O)c2C	RDXBLRRUYBTFEI-JCMHNJIXSA-N
+OSM-S-49	1	Pfal IC50 (GSK)	0.085	=		0.085			0.063		0.028							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccccc3)\S1)c4ccccc4	HYCHBJJSXVXDSY-JCMHNJIXSA-N
+OSM-S-49	1	Pfal IC50 (Avery)	0.063	=		0.085			0.063		0.028							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccccc3)\S1)c4ccccc4	HYCHBJJSXVXDSY-JCMHNJIXSA-N
+OSM-S-49	1	Pfal IC50 (Ralph)	0.028	=		0.085			0.063		0.028							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccccc3)\S1)c4ccccc4	HYCHBJJSXVXDSY-JCMHNJIXSA-N
+OSM-S-5	1	Pfal IC50 (GSK)	0.818	=		0.818; 0.177			0.404	0.375	0.61			0.581	0.641			Cc1cc(C(=O)OCC(=O)N)c(C)n1c2ccc(F)cc2	YSUCFIZUNLQZDX-UHFFFAOYSA-N
+OSM-S-5	1	Pfal IC50 (GSK)	0.177	=		0.818; 0.177			0.404	0.375	0.61			0.581	0.641			Cc1cc(C(=O)OCC(=O)N)c(C)n1c2ccc(F)cc2	YSUCFIZUNLQZDX-UHFFFAOYSA-N
+OSM-S-5	1	Pfal IC50 (Avery)	0.404	=		0.818; 0.177			0.404	0.375	0.61			0.581	0.641			Cc1cc(C(=O)OCC(=O)N)c(C)n1c2ccc(F)cc2	YSUCFIZUNLQZDX-UHFFFAOYSA-N
+OSM-S-5	1	Pfal (K1) IC50 (Avery)	0.375	=		0.818; 0.177			0.404	0.375	0.61			0.581	0.641			Cc1cc(C(=O)OCC(=O)N)c(C)n1c2ccc(F)cc2	YSUCFIZUNLQZDX-UHFFFAOYSA-N
+OSM-S-5	1	Pfal IC50 (Ralph)	0.61	=		0.818; 0.177			0.404	0.375	0.61			0.581	0.641			Cc1cc(C(=O)OCC(=O)N)c(C)n1c2ccc(F)cc2	YSUCFIZUNLQZDX-UHFFFAOYSA-N
+OSM-S-5	1	Pfal IC50 (Batra)	0.581	=		0.818; 0.177			0.404	0.375	0.61			0.581	0.641			Cc1cc(C(=O)OCC(=O)N)c(C)n1c2ccc(F)cc2	YSUCFIZUNLQZDX-UHFFFAOYSA-N
+OSM-S-5	1	Pfal (K1) IC50 (Batra)	0.641	=		0.818; 0.177			0.404	0.375	0.61			0.581	0.641			Cc1cc(C(=O)OCC(=O)N)c(C)n1c2ccc(F)cc2	YSUCFIZUNLQZDX-UHFFFAOYSA-N
+OSM-S-50	1	Pfal IC50 (GSK)	0.025	=		0.025			0.326		0.156							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(C)cc3)\S1)c4ccccc4	RZFIAJJLMRMIBB-HAHDFKILSA-N
+OSM-S-50	1	Pfal IC50 (Avery)	0.326	=		0.025			0.326		0.156							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(C)cc3)\S1)c4ccccc4	RZFIAJJLMRMIBB-HAHDFKILSA-N
+OSM-S-50	1	Pfal IC50 (Ralph)	0.156	=		0.025			0.326		0.156							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(C)cc3)\S1)c4ccccc4	RZFIAJJLMRMIBB-HAHDFKILSA-N
+OSM-S-51	1	Pfal IC50 (GSK)	0.309	=		0.309; 0.048			0.307		0.442							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccn4	WFGBKPBKZGJAHY-AQTBWJFISA-N
+OSM-S-51	1	Pfal IC50 (GSK)	0.048	=		0.309; 0.048			0.307		0.442							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccn4	WFGBKPBKZGJAHY-AQTBWJFISA-N
+OSM-S-51	1	Pfal IC50 (Avery)	0.307	=		0.309; 0.048			0.307		0.442							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccn4	WFGBKPBKZGJAHY-AQTBWJFISA-N
+OSM-S-51	1	Pfal IC50 (Ralph)	0.442	=		0.309; 0.048			0.307		0.442							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\NC2=O)c(C)n1c4ccccn4	WFGBKPBKZGJAHY-AQTBWJFISA-N
+OSM-S-52	1	Pfal IC50 (GSK)	0.372	=		0.372			0.054		0.485							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(C2=O)c4ccccc4)c(C)n1c5ccc(cc5)C(F)(F)F	SACGGTIRNSKYBF-QVWDHFDZSA-N
+OSM-S-52	1	Pfal IC50 (Avery)	0.054	=		0.372			0.054		0.485							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(C2=O)c4ccccc4)c(C)n1c5ccc(cc5)C(F)(F)F	SACGGTIRNSKYBF-QVWDHFDZSA-N
+OSM-S-52	1	Pfal IC50 (Ralph)	0.485	=		0.372			0.054		0.485							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(C2=O)c4ccccc4)c(C)n1c5ccc(cc5)C(F)(F)F	SACGGTIRNSKYBF-QVWDHFDZSA-N
+OSM-S-54	1	Pfal IC50 (GSK)	0.276	=		0.276			0.034		0.52							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(C4CCCC4)C2=O)c(C)n1c5ccc(cc5)C(F)(F)F	BDDWBUPMEFMPPN-BUWRXKIYSA-N
+OSM-S-54	1	Pfal IC50 (Avery)	0.034	=		0.276			0.034		0.52							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(C4CCCC4)C2=O)c(C)n1c5ccc(cc5)C(F)(F)F	BDDWBUPMEFMPPN-BUWRXKIYSA-N
+OSM-S-54	1	Pfal IC50 (Ralph)	0.52	=		0.276			0.034		0.52							Cc1cc(\C=C\2/S\C(=N/c3ccccc3)\N(C4CCCC4)C2=O)c(C)n1c5ccc(cc5)C(F)(F)F	BDDWBUPMEFMPPN-BUWRXKIYSA-N
+OSM-S-55	1	Pfal IC50 (GSK)	5	>		>5			100% at 40 micromolar		0							O=C1N\C(=N\c2ccccc2)\S/C/1=C\c3ccccc3	AXMGOWZVQOLCDR-KAMYIIQDSA-N
+OSM-S-6	1	Pfal IC50 (GSK)	0.245	=		0.245			0.345	0.152	0.387							CN1N(C(=O)C(=C1C)NC(=O)COC(=O)c2cc(C)n(c2C)c3ccc(F)cc3)c4ccccc4	OFHDGHFNTKVFPI-UHFFFAOYSA-N
+OSM-S-6	1	Pfal IC50 (Avery)	0.345	=		0.245			0.345	0.152	0.387							CN1N(C(=O)C(=C1C)NC(=O)COC(=O)c2cc(C)n(c2C)c3ccc(F)cc3)c4ccccc4	OFHDGHFNTKVFPI-UHFFFAOYSA-N
+OSM-S-6	1	Pfal (K1) IC50 (Avery)	0.152	=		0.245			0.345	0.152	0.387							CN1N(C(=O)C(=C1C)NC(=O)COC(=O)c2cc(C)n(c2C)c3ccc(F)cc3)c4ccccc4	OFHDGHFNTKVFPI-UHFFFAOYSA-N
+OSM-S-6	1	Pfal IC50 (Ralph)	0.387	=		0.245			0.345	0.152	0.387							CN1N(C(=O)C(=C1C)NC(=O)COC(=O)c2cc(C)n(c2C)c3ccc(F)cc3)c4ccccc4	OFHDGHFNTKVFPI-UHFFFAOYSA-N
+OSM-S-7	1	Pfal IC50 (GSK)	5	>		>5			7.8	4.6	0							Cc1cc(C(=O)N(C2CCCCC2)C(=O)NC3CCCCC3)c(C)n1c4ccc(F)cc4	RLPVOMUFRGFVJT-UHFFFAOYSA-N
+OSM-S-7	1	Pfal IC50 (Avery)	7.8	=		>5			7.8	4.6	0							Cc1cc(C(=O)N(C2CCCCC2)C(=O)NC3CCCCC3)c(C)n1c4ccc(F)cc4	RLPVOMUFRGFVJT-UHFFFAOYSA-N
+OSM-S-7	1	Pfal (K1) IC50 (Avery)	4.6	=		>5			7.8	4.6	0							Cc1cc(C(=O)N(C2CCCCC2)C(=O)NC3CCCCC3)c(C)n1c4ccc(F)cc4	RLPVOMUFRGFVJT-UHFFFAOYSA-N
+OSM-S-8	1	Pfal IC50 (GSK)	5	>		>5			100% at 80 micromolar		0							CN1N(C(=O)C(=C1C)NC(=O)c2cc(C)n(c2C)c3ccc(F)cc3)c4ccccc4	NVKLEDPUHCCJRE-UHFFFAOYSA-N
+OSM-S-82	1	Pfal IC50 (Avery)	9.4	=					9.4									CNC(=O)COC(=O)c1cc(C)n(c1C)c2ccc(F)cc2	FXSYKCLPBZPYNU-UHFFFAOYSA-N
+OSM-S-88	1	Pfal IC50 (Avery)	14.7	=					14.7									CNC(=O)CN1CCC(CC1)NCc2cc(C)n(c2C)c3ccc(Cl)cc3	HQRQGAAJRGIERF-UHFFFAOYSA-N
+OSM-S-89	1	Pfal IC50 (Avery)	24.7	=					24.7									CCNC(=O)[C@@H]1C[C@@H](N)CN1Cc2cc(C)n(c2C)c3ccccc3Cl	ZUKQHVDBUYFYRN-APWZRJJASA-N
+OSM-S-9	1	Pfal IC50 (GSK)	0.047	=		0.047			0.047	0.066	0.023							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(F)cc3)\S1)c4ccccc4	WFLINPFRLHPFGO-HMAPJEAMSA-N
+OSM-S-9	1	Pfal IC50 (Avery)	0.047	=		0.047			0.047	0.066	0.023							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(F)cc3)\S1)c4ccccc4	WFLINPFRLHPFGO-HMAPJEAMSA-N
+OSM-S-9	1	Pfal (K1) IC50 (Avery)	0.066	=		0.047			0.047	0.066	0.023							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(F)cc3)\S1)c4ccccc4	WFLINPFRLHPFGO-HMAPJEAMSA-N
+OSM-S-9	1	Pfal IC50 (Ralph)	0.023	=		0.047			0.047	0.066	0.023							CC(=O)N(C1=NC(=O)\C(=C\c2cc(C)n(c2C)c3ccc(F)cc3)\S1)c4ccccc4	WFLINPFRLHPFGO-HMAPJEAMSA-N
+OSM-S-91	1	Pfal IC50 (Avery)	11.3	=					11.3									CN(C)C(=O)COC(=O)c1cc(C)n(c1C)c2ccc(F)cc2	UBASAKWAWFZWGG-UHFFFAOYSA-N
+OSM-S-95	1	Pfal IC50 (Avery)	4.8	=					4.8									Cc1cc(CNC2CCN(Cc3ccccc3)CC2)c(C)n1c4ccc(F)cc4	OBFANJWJASKEMA-UHFFFAOYSA-N
+OSM-S-66	2	Pfal IC50 (Avery)	40	>					>40									C(Sc1nc[nH]n1)c2ccccc2	IQQYSQRJFHUASD-UHFFFAOYSA-N
+OSM-E-23	3	Pfal IC50 (Syngene)	18.5	=			18.5											NS(=O)(=O)C1=CC(CC=C1)c2cc3ncnc(NCCCO)c3s2	JMGQLUQOLFPKPG-UHFFFAOYSA-N
+OSM-E-24	3	Pfal IC50 (Syngene)	50	>			>50											Nc1ncnc2cc(sc12)C3CC=CC(=C3)S(=O)(=O)N4CCCC4	WJXQKMZKHUBIMH-UHFFFAOYSA-N
+OSM-E-25	3	Pfal IC50 (Syngene)	50	>			>50											Cc1c(sc2c(N)ncnc12)c3cccc(c3)S(=O)(=O)N	JIUOPNISLOOEPA-UHFFFAOYSA-N
+OSM-E-26	3	Pfal IC50 (Syngene)	50	>			>50											CC1C=CC(=CC1c2sc3c(N)ncnc3c2C)S(=O)(=O)N	OTALAHLJTGALQU-UHFFFAOYSA-N
+OSM-E-27	3	Pfal IC50 (Syngene)	50	>			>50											NS(=O)(=O)c1cccc(c1)c2cc3ncnc(NCCO)c3s2	MMGBHQAWBVFGDD-UHFFFAOYSA-N
+OSM-E-32	3	Pfal IC50 (Dundee)	50	>				>50										Cc1ccc(cc1c2cc3ncnc(N)c3s2)S(=O)(=O)N	CEKVBYOWKFYMGL-UHFFFAOYSA-N
+OSM-S-106	3	Pfal IC50 (GSK)	0.088	=		0.088		0.13	0.036									Nc1ncnc2cc(sc12)c3cccc(c3)S(=O)(=O)N	MQMXDJVOZKMSNT-UHFFFAOYSA-N
+OSM-S-106	3	Pfal IC50 (Dundee)	0.13	=		0.088		0.13	0.036									Nc1ncnc2cc(sc12)c3cccc(c3)S(=O)(=O)N	MQMXDJVOZKMSNT-UHFFFAOYSA-N
+OSM-S-106	3	Pfal IC50 (Avery)	0.036	=		0.088		0.13	0.036									Nc1ncnc2cc(sc12)c3cccc(c3)S(=O)(=O)N	MQMXDJVOZKMSNT-UHFFFAOYSA-N
+OSM-S-118	3	Pfal IC50 (Avery)	40	>					>40									c1ccc(cc1)c2ncnc3ccsc23	ROUKINVYJAEUCD-UHFFFAOYSA-N
+OSM-S-119	3	Pfal IC50 (Avery)	40	>					>40									Brc1sc2c(ncnc2c1Br)c3ccccc3	MHSGERTZTNZZKP-UHFFFAOYSA-N
+OSM-S-120	3	Pfal IC50 (Avery)	40	>					>40									Brc1cc2ncnc(c3ccccc3)c2s1	TUFQXFIDQNLCGQ-UHFFFAOYSA-N
+OSM-S-122	3	Pfal IC50 (Avery)	40	>					>40									c1ccc(cc1)c2cc3ncnc(c4ccccc4)c3s2	QDXZKUSOZDDGPU-UHFFFAOYSA-N
+OSM-S-123	3	Pfal IC50 (Avery)	40	>					>40									Nc1ncnc2cc(sc12)c3ccccc3	WQVHTLKGGYMXIO-UHFFFAOYSA-N
+OSM-S-125	3	Pfal IC50 (Avery)	40	>					>40									Brc1cc2ncnc(N3CCOCC3)c2s1	WUXPEHRGQLOSNM-UHFFFAOYSA-N
+OSM-S-129	3	Pfal IC50 (Avery)	40	>					>40									Nc1ncnc2cc(sc12)c3ccc(cc3)S(=O)(=O)N	NPCFGALHIPAZAV-UHFFFAOYSA-N
+OSM-S-130	3	Pfal IC50 (Avery)	40	>					>40									CN(C)C(=O)c1ccc(cc1)c2cc3ncnc(N)c3s2	XJSSUNQWKKUSSC-UHFFFAOYSA-N
+OSM-S-131	3	Pfal IC50 (Avery)	40	>					>40									COc1ccc(cc1)c2cc3ncnc(N)c3s2	DRUQZXVTFOTIEO-UHFFFAOYSA-N
+OSM-S-132	3	Pfal IC50 (Avery)	40	>					>40									Nc1ncnc2cc(sc12)c3ccc(cc3)C(=O)N4CCOCC4	KOSDTDDFEYEHDU-UHFFFAOYSA-N
+OSM-S-134	3	Pfal IC50 (Avery)	40	>					>40									CN1CCN(CC1)C(=O)c2ccc(cc2)c3cc4ncnc(N)c4s3	OUPUOWHKLRDGOE-UHFFFAOYSA-N
+OSM-S-135	3	Pfal IC50 (Avery)	40	>					>40									NC(=O)c1cccc(c1)c2cc3ncnc(N)c3s2	YWVZUIYPEKTRTJ-UHFFFAOYSA-N
+OSM-S-136	3	Pfal IC50 (Avery)	15	=					15									Fc1ccc(CN2CCN(CC2)c3ncnc4cc(Br)sc34)cc1	DQEWYYDIDSUSJB-UHFFFAOYSA-N
+OSM-S-137	3	Pfal IC50 (Dundee)	6.875	=				6.875	1.7									NS(=O)(=O)c1cccc(c1)c2cc3ncnc(N4CCN(Cc5ccc(F)cc5)CC4)c3s2	OWXZZWFFXSEZNL-UHFFFAOYSA-N
+OSM-S-137	3	Pfal IC50 (Avery)	1.7	=				6.875	1.7									NS(=O)(=O)c1cccc(c1)c2cc3ncnc(N4CCN(Cc5ccc(F)cc5)CC4)c3s2	OWXZZWFFXSEZNL-UHFFFAOYSA-N
+OSM-S-142	3	Pfal IC50 (GSK)	5	>		>5												CN1CCN(CC1)C(=O)c2cccc(c2)c3cc4ncnc(N)c4s3	USHWEAINWXCOHP-UHFFFAOYSA-N
+OSM-S-145	3	Pfal IC50 (Dundee)	25	>				>25										CN(C)c1ncnc2cc(sc12)c3cccc(c3)S(=O)(=O)N	CGTVWFYTOADSRO-UHFFFAOYSA-N
+OSM-S-488	3	Pfal IC50 (Syngene)	50	>			>50											CNS(=O)(=O)C1=CC(CC=C1)c2cc3ncnc(N)c3s2	JKCCHEYITLJPCL-UHFFFAOYSA-N
+OSM-S-489	3	Pfal IC50 (Syngene)	50	>			>50											CN(C)S(=O)(=O)C1=CC(CC=C1)c2cc3ncnc(N)c3s2	KNJTYVZQHQMSEV-UHFFFAOYSA-N
+OSM-S-493	3	Pfal IC50 (Avery)	40	>					>40									C1CN(CCO1)c2ncnc3ccsc23	ZEWWLZDNTOZATC-UHFFFAOYSA-N
+OSM-S-590	3	Pfal IC50 (Avery)	0.231	=					0.231									O=C(NCCN1CCCCC1)N2CCCN(CC2)c3ncnc4cc(sc34)c5ccccc5	RXUDNOCUZUCOGS-UHFFFAOYSA-N
+OSM-S-606	3	Pfal IC50 (Dundee)	25	>				>25										Nc1ncnc2c(c[nH]c12)c3cccc(c3)S(=O)(=O)N	AZDIWLYPDODQNA-UHFFFAOYSA-N
+OSM-S-641	3	Pfal IC50 (Dundee)	25	>				>25										COc1cccc(c1)c2cc3ncnc(SCC(=O)O)c3s2	DYCCEQUNLMNCFJ-UHFFFAOYSA-N
+OSM-S-642	3	Pfal IC50 (Dundee)	25	>				>25										CC(=O)c1ccc(cn1)c2cc3ncnc(SCC(=O)O)c3s2	LGDNGRNEECNYDP-UHFFFAOYSA-N
+OSM-S-643	3	Pfal IC50 (Dundee)	25	>				>25										CSc1cccc(c1)c2cc3c(SCC(=O)O)ncnc3s2	MNWOYBNZZSNGOO-UHFFFAOYSA-N
+OSM-S-644	3	Pfal IC50 (Dundee)	25	>				>25										OC(=O)CSc1ncnc2cc(sc12)c3cccc(OC(F)(F)F)c3	LVPPRPZWXKYNRR-UHFFFAOYSA-N
+OSM-S-645	3	Pfal IC50 (Dundee)	18.45	=				18.45										CC(=O)Nc1cccc(c1)c2cc3ncnc(SCC(=O)O)c3s2	QITKDVLQZKEZLA-UHFFFAOYSA-N
+OSM-S-646	3	Pfal IC50 (Dundee)	25	>				>25										OC(=O)CSc1ncnc2cc(sc12)c3cccs3	AWGWMRKFZPUBMU-UHFFFAOYSA-N
+OSM-S-647	3	Pfal IC50 (Dundee)	25	>				>25										OC(=O)CSc1ncnc2cc(sc12)c3cccc(c3)N4CCOCC4	YNGXIFAWCXNJLT-UHFFFAOYSA-N
+OSM-S-648	3	Pfal IC50 (Dundee)	25	>				>25										CS(=O)(=O)c1cccc(c1)c2cc3ncnc(SCC(=O)O)c3s2	BTGDYEPQMXMGFI-UHFFFAOYSA-N
+OSM-S-649	3	Pfal IC50 (Dundee)	25	>				>25										Nc1ncnc2cc(sc12)c3cccc(c3)C(=O)O	JYCLMKQWHKSRJT-UHFFFAOYSA-N
+OSM-S-65	3	Pfal IC50 (Avery)	40	>					>40									Oc1ncnc2cc(I)sc12	YNWYDHQWPQXICN-UHFFFAOYSA-N
+OSM-S-69	3	Pfal IC50 (Avery)	40	>					>40									COC(=O)c1sccc1NC=O	LBYBTIGBOUMNTH-UHFFFAOYSA-N
+OSM-S-70	3	Pfal IC50 (Avery)	40	>					>40									Clc1ncnc2ccsc12	TWTODSLDHCDLDR-UHFFFAOYSA-N
+OSM-S-71	3	Pfal IC50 (Avery)	40	>					>40									Nc1ncnc2ccsc12	QIZMFTNGJPBSBT-UHFFFAOYSA-N
+OSM-S-72	3	Pfal IC50 (Avery)	40	>					>40									O=S(=O)(Nc1ncnc2sc(cc12)c3ccccc3)c4ccccc4	RVVYQPLURRLHLR-UHFFFAOYSA-N
+OSM-S-73	3	Pfal IC50 (Avery)	40	>					>40									Cc1ccc(Nc2ncnc3ccsc23)cc1S(=O)=O	ANUSJERLXROAHO-UHFFFAOYSA-N
+OSM-S-75	3	Pfal IC50 (Avery)	40	>					>40									COc1ccc(cc1)S(=O)(=O)N2CCC(CC2)Nc3ncnc4ccsc34	AIOKEIOAHBEYFV-UHFFFAOYSA-N
+OSM-S-76	3	Pfal IC50 (Avery)	40	>					>40									C[C@H](Nc1ncnc2ccsc12)c3cccc(c3)S(=O)(=O)N	BTENSVAFLZSYCS-VIFPVBQESA-N
+OSM-S-77	3	Pfal IC50 (Avery)	40	>					>40									CCOc1ccc(Nc2ncnc3ccsc23)cc1S(=O)(=O)N(C)C	AFXZPMPMWGUDRD-UHFFFAOYSA-N
+OSM-S-78	3	Pfal IC50 (Avery)	40	>					>40									NS(=O)(=O)c1ccc(CNc2nc(nc3ccccc23)c4ccsc4)cc1	XAYZAAZFNXFGQQ-UHFFFAOYSA-N
+OSM-S-79	3	Pfal IC50 (Avery)	40	>					>40									NS(=O)(=O)c1cccc(CNc2ncnc3ccsc23)c1	MONLYHVADJHNFV-UHFFFAOYSA-N
+OSM-S-175	4	Pfal IC50 (Dundee)	0.451	=	0.1404			0.451										FC(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)Nc4ccnc(c4)C(F)(F)F)n23	UEOZBGRWGZEYED-UHFFFAOYSA-N
+OSM-S-177	4	Pfal IC50 (Dundee)	10	>	>10			>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)N4Cc5ccccc5C4)n23	ZTZAUSYERGBZNZ-UHFFFAOYSA-N
+OSM-S-187	4	Pfal IC50 (GSK)	0.534	=		0.534												N#Cc1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	ZUPHNBXHMXOSSS-UHFFFAOYSA-N
+OSM-S-189	4	Pfal IC50 (GSK)	0.309	=		0.309												Clc1ccccc1CCOc2cncc3nnc(c4ccc(cc4)C#N)n23	DQNFHRXLTAOFIL-UHFFFAOYSA-N
+OSM-S-201	4	Pfal IC50 (GSK)	5	>	>5	>5		4.191										Cc1c(Cl)cccc1NC(=O)c2cncc3nnc(c4ccc(OC(F)F)cc4)n23	IVENWLQUYSRINV-UHFFFAOYSA-N
+OSM-S-201	4	Pfal IC50 (Dundee)	4.191	=	>5	>5		4.191										Cc1c(Cl)cccc1NC(=O)c2cncc3nnc(c4ccc(OC(F)F)cc4)n23	IVENWLQUYSRINV-UHFFFAOYSA-N
+OSM-S-202	4	Pfal IC50 (GSK)	0.242	=	0.18	0.242												FC(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)Nc4cccc(Cl)c4)n23	AJGOFYWOTIIYLR-UHFFFAOYSA-N
+OSM-S-204	4	Pfal IC50 (Syngene)	0.702	=			0.702	1.002										FC(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)Nc4cccc(Cl)c4F)n23	WBRLFZGDBUVKSB-UHFFFAOYSA-N
+OSM-S-204	4	Pfal IC50 (Dundee)	1.002	=			0.702	1.002										FC(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)Nc4cccc(Cl)c4F)n23	WBRLFZGDBUVKSB-UHFFFAOYSA-N
+OSM-S-206	4	Pfal IC50 (GSK)	0.309	=		0.309												FC(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)Nc4cc(cc(c4)C(F)(F)F)C(F)(F)F)n23	GCJUFPUQPKTUOT-UHFFFAOYSA-N
+OSM-S-208;OSM-S-218;OSM-S-416	4	Pfal IC50 (GSK)	0.207	=	0.04	0.207		0.146, 1.13;0.43										COC(COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccc(F)c(F)c4	PERKBMZWWUEZNJ-UHFFFAOYSA-N
+OSM-S-208;OSM-S-218;OSM-S-416	4	Pfal IC50 (Dundee)	0.146	=	0.04	0.207		0.146, 1.13;0.43										COC(COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccc(F)c(F)c4	PERKBMZWWUEZNJ-UHFFFAOYSA-N
+OSM-S-208;OSM-S-218;OSM-S-416	4	Pfal IC50 (Dundee)	1.13	=	0.04	0.207		0.146, 1.13;0.43										COC(COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccc(F)c(F)c4	PERKBMZWWUEZNJ-UHFFFAOYSA-N
+OSM-S-208;OSM-S-218;OSM-S-416	4	Pfal IC50 (Dundee)	0.43	=	0.04	0.207		0.146, 1.13;0.43										COC(COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccc(F)c(F)c4	PERKBMZWWUEZNJ-UHFFFAOYSA-N
+OSM-S-254	4	Pfal IC50 (Syngene)	0.391	=			0.391	0.966										Cc1ccc(Cl)cc1NC(=O)c2cncc3nnc(c4ccc(OC(F)F)cc4)n23	QKXZFYOMVFGRGS-UHFFFAOYSA-N
+OSM-S-254	4	Pfal IC50 (Dundee)	0.966	=			0.391	0.966										Cc1ccc(Cl)cc1NC(=O)c2cncc3nnc(c4ccc(OC(F)F)cc4)n23	QKXZFYOMVFGRGS-UHFFFAOYSA-N
+OSM-S-255	4	Pfal IC50 (Syngene)	10	>			>10											COc1ccc(cc1)c2nnc3cncc(C(=O)Nc4cccc(Cl)c4C)n23	LIAWHOKMZQICES-UHFFFAOYSA-N
+OSM-S-256	4	Pfal IC50 (Syngene)	5.66	=			5.66											COc1ccc(cc1)c2nnc3cncc(C(=O)Nc4cccc(Cl)c4F)n23	FWGBPGUTIFKBOZ-UHFFFAOYSA-N
+OSM-S-257	4	Pfal IC50 (Syngene)	1.06	=			1.06											COc1ccc(cc1)c2nnc3cncc(C(=O)Nc4cc(Cl)ccc4C)n23	NFXWTMUWMZSIFL-UHFFFAOYSA-N
+OSM-S-258	4	Pfal IC50 (Syngene)	10	>			>10											Clc1ccccc1CCOc2cncc3nnc(c4ccncc4)n23	ONSVYVKJKRCBFG-UHFFFAOYSA-N
+OSM-S-259	4	Pfal IC50 (Syngene)	0.452	=			0.452											Fc1ccc(COc2cncc3nnc(c4ccc(Cl)cc4)n23)cc1F	RFVLCVGXWWXLGJ-UHFFFAOYSA-N
+OSM-S-260	4	Pfal IC50 (Syngene)	0.281	=			0.281											FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	DEEWBVYNQGALDU-UHFFFAOYSA-N
+OSM-S-262	4	Pfal IC50 (Syngene)	10	>			>10											Clc1cccc(NC(=O)c2cncc3nnc(c4ccccn4)n23)c1	GCBSUHZLELOHDM-UHFFFAOYSA-N
+OSM-S-263	4	Pfal IC50 (Syngene)	10	>			>10											Clc1cccc(NC(=O)c2cncc3nnc(c4cccnc4)n23)c1	AQSNHWMTHMLNFL-UHFFFAOYSA-N
+OSM-S-265	4	Pfal IC50 (Syngene)	0.285	=			0.285											COC(COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccccc4	QAGSTSUWCMAMBB-UHFFFAOYSA-N
+OSM-S-271	4	Pfal IC50 (Syngene)	0.234	=			0.234											FC(F)(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)Nc4cccc(Cl)c4)n23	KPPYAXXEDYTONY-UHFFFAOYSA-N
+OSM-S-272	4	Pfal IC50 (Dundee)	0.143	=	0.038			0.143								0.0493	0.0447	Fc1ccc(CCOc2cncc3nnc(c4ccc(Cl)cc4)n23)cc1F	PMHUSEXABGDNGS-UHFFFAOYSA-N
+OSM-S-272	4	Pfal (3D7) IC50 (Broad)	0.0493	=	0.038			0.143								0.0493	0.0447	Fc1ccc(CCOc2cncc3nnc(c4ccc(Cl)cc4)n23)cc1F	PMHUSEXABGDNGS-UHFFFAOYSA-N
+OSM-S-272	4	Pfal (Dd2) IC50 (Broad)	0.0447	=	0.038			0.143								0.0493	0.0447	Fc1ccc(CCOc2cncc3nnc(c4ccc(Cl)cc4)n23)cc1F	PMHUSEXABGDNGS-UHFFFAOYSA-N
+OSM-S-275	4	Pfal IC50 (Syngene)	5	>			>5											OC(COc1cncc2nnc(C3CCCCC3)n12)c4ccccc4	LWDWZIVAQMSZHL-UHFFFAOYSA-N
+OSM-S-276	4	Pfal IC50 (Syngene)	10	>			>10											CCc1nnc2cncc(OCC(O)c3ccccc3)n12	ZMELTVBBQIUHNR-UHFFFAOYSA-N
+OSM-S-277	4	Pfal IC50 (Syngene)	5	>			>5											OC(COc1cncc2nnc(c3ccccc3)n12)c4ccccc4	HQWUAOFYEUBLBZ-UHFFFAOYSA-N
+OSM-S-278	4	Pfal IC50 (Syngene)	3.462	=			3.462, 3.665	4.867										OC(COc1cncc2nnc(c3ccc(nc3)C(F)(F)F)n12)c4ccccc4	YUTTVQUFLHMVCQ-UHFFFAOYSA-N
+OSM-S-278	4	Pfal IC50 (Syngene)	3.665	=			3.462, 3.665	4.867										OC(COc1cncc2nnc(c3ccc(nc3)C(F)(F)F)n12)c4ccccc4	YUTTVQUFLHMVCQ-UHFFFAOYSA-N
+OSM-S-278	4	Pfal IC50 (Dundee)	4.867	=			3.462, 3.665	4.867										OC(COc1cncc2nnc(c3ccc(nc3)C(F)(F)F)n12)c4ccccc4	YUTTVQUFLHMVCQ-UHFFFAOYSA-N
+OSM-S-279	4	Pfal IC50 (Syngene)	0.264	=			0.264, 0.265	0.364										OC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	GEHCMLKWLSBHDX-UHFFFAOYSA-N
+OSM-S-279	4	Pfal IC50 (Syngene)	0.265	=			0.264, 0.265	0.364										OC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	GEHCMLKWLSBHDX-UHFFFAOYSA-N
+OSM-S-279	4	Pfal IC50 (Dundee)	0.364	=			0.264, 0.265	0.364										OC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	GEHCMLKWLSBHDX-UHFFFAOYSA-N
+OSM-S-280	4	Pfal IC50 (Syngene)	10	>			>10											COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12	DEPSYKMVBIYBIU-UHFFFAOYSA-N
+OSM-S-281	4	Pfal IC50 (Syngene)	10	>			>10											CN[C@@H](COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	NXAYCBUWEUBZHA-KRWDZBQOSA-N
+OSM-S-283	4	Pfal IC50 (Syngene)	1.502	=			1.502, 2.498											NC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	APNVCAYADQJJBZ-UHFFFAOYSA-N
+OSM-S-283	4	Pfal IC50 (Syngene)	2.498	=			1.502, 2.498											NC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	APNVCAYADQJJBZ-UHFFFAOYSA-N
+OSM-S-291	4	Pfal IC50 (Syngene)	5	>			>5											Clc1ccccc1c2nnc3cncc(OCCc4ccccc4)n23	KVOZVIJYWCGSOW-UHFFFAOYSA-N
+OSM-S-292	4	Pfal IC50 (Syngene)	2.5	>			>2.5											Clc1cccc(c1)c2nnc3cncc(OCCc4ccccc4)n23	CEOXEGPHOBLFBL-UHFFFAOYSA-N
+OSM-S-293	4	Pfal IC50 (Syngene)	0.0574	=			0.0574	0.166										Clc1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	VURCFSOLNXCMTN-UHFFFAOYSA-N
+OSM-S-293	4	Pfal IC50 (Dundee)	0.166	=			0.0574	0.166										Clc1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	VURCFSOLNXCMTN-UHFFFAOYSA-N
+OSM-S-294	4	Pfal IC50 (Syngene)	1.599	=			1.599	1.42										C(Cc1ccccc1)Oc2cncc3nnc(c4ccccc4)n23	YRTHPBSIEMFKFB-UHFFFAOYSA-N
+OSM-S-294	4	Pfal IC50 (Dundee)	1.42	=			1.599	1.42										C(Cc1ccccc1)Oc2cncc3nnc(c4ccccc4)n23	YRTHPBSIEMFKFB-UHFFFAOYSA-N
+OSM-S-295	4	Pfal IC50 (Syngene)	5	>			>5											Fc1cc(F)cc(c1)c2nnc3cncc(OCCc4ccccc4)n23	OKECEFJCMLFHAN-UHFFFAOYSA-N
+OSM-S-296	4	Pfal IC50 (Syngene)	1.014	=			1.014											C(Cc1ccccc1)Oc2cncc3nnc(c4ccc5OCOc5c4)n23	MMRQZVYZGCDPOA-UHFFFAOYSA-N
+OSM-S-297	4	Pfal IC50 (Syngene)	0.415	=			0.415											C(Cc1ccccc1)Oc2cncc3nnc(c4ccc5ccccc5c4)n23	SUHQKLHRXHBOST-UHFFFAOYSA-N
+OSM-S-298	4	Pfal IC50 (Syngene)	10	>			>10											Fc1cc(F)cc(c1)c2nnc3cncc(OCc4ccccn4)n23	NQPLGASHZCSICG-UHFFFAOYSA-N
+OSM-S-299	4	Pfal IC50 (Syngene)	10	>			>10											C(Oc1cncc2nnc(c3ccc4OCOc4c3)n12)c5ccccn5	UEDVUGBYRDYVEK-UHFFFAOYSA-N
+OSM-S-300	4	Pfal IC50 (Syngene)	10	>			>10											C(Oc1cncc2nnc(c3ccc4ccccc4c3)n12)c5ccccn5	GPNQKUMRVTXOHH-UHFFFAOYSA-N
+OSM-S-301	4	Pfal IC50 (Syngene)	5	>			>5											FC(F)Oc1ccc(cc1)c2nnc3cncc(OCc4ccccn4)n23	APPUFQJFODJHGW-UHFFFAOYSA-N
+OSM-S-346	4	Pfal IC50 (Syngene)	0.702	=			0.702											CC(Oc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(Cl)c(Cl)c4	ILDZQTSEZGQWFR-UHFFFAOYSA-N
+OSM-S-347	4	Pfal IC50 (Syngene)	0.529	=			0.529											FC(F)Oc1ccc(cc1)c2nnc3cncc(OCc4ccc(Cl)c(Cl)c4)n23	CSHOSFVEVPHTHZ-UHFFFAOYSA-N
+OSM-S-348	4	Pfal IC50 (Syngene)	1.636	=			1.636											FC(F)Oc1ccc(cc1)c2nnc3cncc(OCc4ccc(Cl)cc4)n23	ROAUWAVERUYYHI-UHFFFAOYSA-N
+OSM-S-349	4	Pfal IC50 (Syngene)	0.582	=			0.582											Fc1ccc(cc1F)c2nnc3cncc(OCCc4ccccc4)n23	DNQWZOZQWWSJTR-UHFFFAOYSA-N
+OSM-S-350	4	Pfal IC50 (Syngene)	0.709	=			0.709											Clc1ccc(cc1Cl)c2nnc3cncc(OCCc4ccccc4)n23	DJLRRTBQGVDDPH-UHFFFAOYSA-N
+OSM-S-351	4	Pfal IC50 (Syngene)	0.259	=			0.259											Clc1cccc(c1Cl)c2nnc3cncc(OCCc4ccccc4)n23	NMFGGQYGCNANQR-UHFFFAOYSA-N
+OSM-S-352	4	Pfal IC50 (Syngene)	0.366	=			0.366											Fc1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	QCWQNZCCYWUBQM-UHFFFAOYSA-N
+OSM-S-353	4	Pfal IC50 (Syngene)	0.073	=			0.073	0.134										OCC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	MGANJQKOPZQELF-UHFFFAOYSA-N
+OSM-S-353	4	Pfal IC50 (Dundee)	0.134	=			0.073	0.134										OCC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	MGANJQKOPZQELF-UHFFFAOYSA-N
+OSM-S-359	4	Pfal IC50 (Syngene)	10	>			>10											FC(F)Oc1ccc(cc1)c2nnc3cncc(SCc4ccccc4)n23	KEZIWQVAJDNGBM-UHFFFAOYSA-N
+OSM-S-360	4	Pfal IC50 (Syngene)	2.5	>			>2.5											FC(F)Oc1ccc(cc1)c2nnc3cncc(S(=O)Cc4ccccc4)n23	HSYPMILIAZBMAQ-UHFFFAOYSA-N
+OSM-S-361	4	Pfal IC50 (Syngene)	10	>			>10											FC(F)Oc1ccc(cc1)c2nnc3cncc(n23)S(=O)(=O)Cc4ccccc4	OCXPXTXAACVDON-UHFFFAOYSA-N
+OSM-S-362	4	Pfal IC50 (Syngene)	10	>			>10											FC(F)Oc1ccc(cc1)c2nnc3cncc(n4cc(nn4)c5ccccc5)n23	WUWMNWSXMOOYGG-UHFFFAOYSA-N
+OSM-S-364	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(S(=O)CCc4ccccc4)n23	XRLPEWWQEWQISU-UHFFFAOYSA-N
+OSM-S-365	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(n23)S(=O)(=O)CCc4ccccc4	VHMNWOXAYNBRAI-UHFFFAOYSA-N
+OSM-S-366	4	Pfal IC50 (Dundee)	0.521	=	0.2621			0.521										Fc1ccc(CCOc2cncc3nnc(c4ccc(nc4)C(F)(F)F)n23)cc1F	GIBSJTKADOSTIA-UHFFFAOYSA-N
+OSM-S-367	4	Pfal IC50 (Dundee)	9.791	=	5			9.791										FC(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)Nc4ccc(Cl)cc4)n23	CAFUHAVOTBMKAN-UHFFFAOYSA-N
+OSM-S-368	4	Pfal IC50 (Dundee)	2.239	=				2.239										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCc4ccccc4)n23	BHCAOWNYTVGIBQ-UHFFFAOYSA-N
+OSM-S-369	4	Pfal IC50 (Dundee)	0.251	=				0.251, 0.301, 0.534										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	AVBCIJLYABLIRW-UHFFFAOYSA-N
+OSM-S-369	4	Pfal IC50 (Dundee)	0.301	=				0.251, 0.301, 0.534										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	AVBCIJLYABLIRW-UHFFFAOYSA-N
+OSM-S-369	4	Pfal IC50 (Dundee)	0.534	=				0.251, 0.301, 0.534										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	AVBCIJLYABLIRW-UHFFFAOYSA-N
+OSM-S-370	4	Pfal IC50 (Dundee)	1.995	=				1.995										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCCC45C6C7C8C(C4C68)C57)n23	VWHKKURDRVBXMI-UHFFFAOYSA-N
+OSM-S-371	4	Pfal IC50 (Dundee)	0.372	=				0.372										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCC45C6C7C8C(C4C68)C57)n23	RXAWCKZPAXRRNE-UHFFFAOYSA-N
+OSM-S-372	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCc4cn(Cc5ccccc5)nn4)n23	MWSSDSZTHFIITL-UHFFFAOYSA-N
+OSM-S-373	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCc4cn(nn4)c5ccccc5)n23	JAWVVMAXICVBNV-UHFFFAOYSA-N
+OSM-S-374	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCc4cn(nn4)c5cncc(Cl)n5)n23	LHPHPSWVDUENHC-UHFFFAOYSA-N
+OSM-S-375	4	Pfal IC50 (Dundee)	10	>				>10										Fc1ccc(CCOc2cncc3nnc(n23)C45C6C7C4C8C5C6C78I)cc1F	XDGWZNAHVCGVML-UHFFFAOYSA-N
+OSM-S-376	4	Pfal IC50 (Dundee)	0.803	=				0.803										OC(COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccc(F)c(F)c4	HHHWRCNBDNZMPN-UHFFFAOYSA-N
+OSM-S-378	4	Pfal IC50 (Dundee)	10	>				>10										CN(C)C(COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccc(F)c(F)c4	MQNJSHHRLBVVLU-UHFFFAOYSA-N
+OSM-S-379	4	Pfal IC50 (Dundee)	0.398	=	0.191			0.398										FC(F)Oc1ccc(cc1)c2nnc3cncc(C(=O)Nc4ccc(F)c(Cl)c4)n23	WFJPUMPZNOYIKX-UHFFFAOYSA-N
+OSM-S-382	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)(F)c1cc(NC(=O)c2cncc3nnc(n23)C45C6C7C4C8C5C6C78I)ccn1	BCBDEZPMCZDSAL-UHFFFAOYSA-N
+OSM-S-383	4	Pfal IC50 (Dundee)	0.135	=				0.135										COc1cccc(CCOc2cncc3nnc(c4ccc(OC(F)F)cc4)n23)c1	QAMQLYPPZOESDX-UHFFFAOYSA-N
+OSM-S-384	4	Pfal IC50 (Dundee)	0.928	=				0.928										COc1ccc(CCOc2cncc3nnc(c4ccc(OC(F)F)cc4)n23)cc1	LPQFPIUFNNSFCQ-UHFFFAOYSA-N
+OSM-S-385	4	Pfal IC50 (Dundee)	8.586	=				8.586										CC(Oc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(F)c(F)c4	RNNQYJKGWRNSLV-UHFFFAOYSA-N
+OSM-S-386	4	Pfal IC50 (Dundee)	4.801	=				4.801										CC(Oc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(cc4)C#N	OXTDVKYGNRAXGV-UHFFFAOYSA-N
+OSM-S-389	4	Pfal IC50 (Dundee)	0.189	=				0.189										CN(C)C(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(F)c(F)c4	PMIWBIXSAYKRGF-UHFFFAOYSA-N
+OSM-S-390	4	Pfal IC50 (Dundee)	0.074	=	0.124			0.074										OC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(F)c(F)c4	BXEWPSCIVPVASC-UHFFFAOYSA-N
+OSM-S-391	4	Pfal IC50 (Dundee)	0.35	=				0.35										Fc1ccc(CCOc2cncc3nnc(c4ccc(I)cc4)n23)cc1F	SYOXDOQMLHMQGB-UHFFFAOYSA-N
+OSM-S-392	4	Pfal IC50 (Dundee)	0.832	=				0.832										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC(=O)c4ccc(F)c(F)c4)n23	OPCIMEMUOABUMK-UHFFFAOYSA-N
+OSM-S-393	4	Pfal IC50 (Dundee)	0.157	=				0.157										COC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)(OC)c4ccc(F)c(F)c4	HFRRKTROCJVLKP-UHFFFAOYSA-N
+OSM-S-394	4	Pfal IC50 (Dundee)	0.48	=				0.48										FS(F)(F)(F)(F)c1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	PEMORNCGKKXBCP-UHFFFAOYSA-N
+OSM-S-395	4	Pfal IC50 (Dundee)	2.15	=				2.15										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCC45CC6CC(CC(C6)C4)C5)n23	BSXLJNOXQMXUOB-CRFYJIHUSA-N
+OSM-S-396	4	Pfal IC50 (Dundee)	0.45	=				0.45										CC(Cc1ccccc1)Oc2cncc3nnc(c4ccc(OC(F)F)cc4)n23	HJOHTEUEFDSADX-UHFFFAOYSA-N
+OSM-S-397	4	Pfal IC50 (Dundee)	4.8	=				4.8										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC45C[C@@H]6C[C@@H](C[C@@H](C6)C4)C5)n23	PIOOGPDPQVQAFQ-QUXYOMGYSA-N
+OSM-S-398	4	Pfal IC50 (Dundee)	0.486	=				0.486										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC4C[C@@H]5C[C@H]4C=C5)n23	OMOCZBKUEFTIAC-DJIKBVBFSA-N
+OSM-S-399	4	Pfal IC50 (Dundee)	1.28	=				1.28										CC1(C)[C@H]2CC=C(CCOc3cncc4nnc(c5ccc(OC(F)F)cc5)n34)[C@@H]1C2	PQILDBPUDLGKJU-WMZOPIPTSA-N
+OSM-S-400	4	Pfal IC50 (Dundee)	1.37	=				1.37										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC(=O)c4ccccc4)n23	MQSMCJANEPVRGE-UHFFFAOYSA-N
+OSM-S-401	4	Pfal IC50 (Dundee)	8	=				8										Clc1ccc(c(Cl)c1)c2nnc3cncc(OCC45C[C@@H]6C[C@@H](C[C@@H](C6)C4)C5)n23	XRHQAPBKYTXPOW-HBJUSLLUSA-N
+OSM-S-402	4	Pfal IC50 (Dundee)	2.53	=				2.53										Clc1ccc(cc1)c2nnc3cncc(OCC45C[C@@H]6C[C@@H](C[C@@H](C6)C4)C5)n23	MFXXXMMQULKXIX-GGTBJBEQSA-N
+OSM-S-403	4	Pfal IC50 (Dundee)	8.24	=				8.24										CC1(C)[C@H]2CC=C(CCOc3cncc4nnc(c5ccc(Cl)cc5Cl)n34)[C@@H]1C2	OYFPJLPMJIFAIS-YOEHRIQHSA-N
+OSM-S-404	4	Pfal IC50 (Dundee)	1.05	=				1.05										CC1(C)[C@H]2CC=C(CCOc3cncc4nnc(c5ccc(Cl)cc5)n34)[C@@H]1C2	BDWPPKIAXRRNII-WMZOPIPTSA-N
+OSM-S-405	4	Pfal IC50 (Dundee)	9.55	=				9.55										Clc1ccc(c(Cl)c1)c2nnc3cncc(OCC4C[C@@H]5C[C@H]4C=C5)n23	OLAUIVKJLBCHFE-LAGVYOHYSA-N
+OSM-S-406	4	Pfal IC50 (Dundee)	0.62	=				0.62										Clc1ccc(cc1)c2nnc3cncc(OCC4C[C@@H]5C[C@H]4C=C5)n23	OWTVMOKESSEJOP-DJIKBVBFSA-N
+OSM-S-407	4	Pfal IC50 (Dundee)	10	>				>10										O=C(Nc1ccncc1)c2cncc3nnc(c4ccccc4)n23	JWMBXLLOVDKXRE-UHFFFAOYSA-N
+OSM-S-408	4	Pfal IC50 (Dundee)	10	>				>10										C(Cc1ccccc1)Oc2cncc3nnc(c4ccncc4)n23	BSTOZULDVQMNLS-UHFFFAOYSA-N
+OSM-S-409	4	Pfal IC50 (Dundee)	10	>				>10										O\N=C(\COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)/c4ccccc4	VJSBQKQNONLQQJ-QQXSKIMKSA-N
+OSM-S-411	4	Pfal IC50 (Dundee)	2.07	=				2.07										[O-][n+]1ccc(NC(=O)c2cncc3nnc(c4ccc(OC(F)F)cc4)n23)cc1C(F)(F)F	HAVDPBNWKHGTHN-UHFFFAOYSA-N
+OSM-S-412	4	Pfal IC50 (Dundee)	4.12	=				4.12										OCC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(O)cc4	BCDILCAJSSYWKE-UHFFFAOYSA-N
+OSM-S-413	4	Pfal IC50 (Dundee)	10	>				>10										CO[C@@H](COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccc(F)c(F)c4	PERKBMZWWUEZNJ-SFHVURJKSA-N
+OSM-S-414	4	Pfal IC50 (Dundee)	0.89	=				0.89										CO[C@H](COc1cncc2nnc(c3ccc(cc3)C#N)n12)c4ccc(F)c(F)c4	PERKBMZWWUEZNJ-GOSISDBHSA-N
+OSM-S-415	4	Pfal IC50 (Dundee)	2.15	=				2.15										Fc1ccc(CCOc2cncc3nnc(c4ccccc4)n23)cc1F	RGEIFMMWUNGFHD-UHFFFAOYSA-N
+OSM-S-418	4	Pfal IC50 (Dundee)	0.05	=				0.05										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC[C]4BBBBBBBBBB[CH]4)n23	AGPVLTOPROUGPQ-UHFFFAOYSA-N
+OSM-S-419	4	Pfal IC50 (Dundee)	1.58	=				1.58										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC(N4CCOCC4)c5ccccc5)n23	NLNZVWQRJHUCOA-UHFFFAOYSA-N
+OSM-S-420	4	Pfal IC50 (Dundee)	10	>				>10										OCc1ccc(COc2cncc3nnc(c4ccc(OC(F)F)cc4)n23)cc1	VIQWBWLDUDXSBJ-UHFFFAOYSA-N
+OSM-S-421	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCN4CC5(COC5)C4)n23	CWOUGAWUCYKRFC-UHFFFAOYSA-N
+OSM-S-422	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCC4COC4)n23	VMXSRABLXQMXLK-UHFFFAOYSA-N
+OSM-S-423	4	Pfal IC50 (Dundee)	0.667	=				0.667										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC4(OCCO4)c5ccc(F)c(F)c5)n23	UAZNIGDYRZOARG-UHFFFAOYSA-N
+OSM-S-424	4	Pfal IC50 (Dundee)	1.9	=				1.9										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC\C\4=C\BBBBB[BH2][BH2]BB4)n23	GESYGRSUBZRKHD-XFFZJAGNSA-N
+OSM-S-430	4	Pfal IC50 (Dundee)	10	>				>10										CCN(CC)C(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(F)c(F)c4	FFKUJTSUMDVIQH-UHFFFAOYSA-N
+OSM-S-431	4	Pfal IC50 (Dundee)	8.85	=				8.85										CCN(C)C(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(F)c(F)c4	XPBTWBXREHLVRP-UHFFFAOYSA-N
+OSM-S-432	4	Pfal IC50 (Dundee)	10	>				>10										Fc1ccc(CCOc2cncc3nnc(Br)n23)cc1F	MNOZFILPXCZGRJ-UHFFFAOYSA-N
+OSM-S-433	4	Pfal IC50 (Dundee)	1.08	=				1.08										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCC4C5C6CC7C4C8C5CC6C78)n23	XRVKLGJFLBVBHV-UHFFFAOYSA-N
+OSM-S-442	4	Pfal IC50 (Dundee)	3.03	=				3.03										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCC4CC4)n23	QIHIEDPHHZEXLP-UHFFFAOYSA-N
+OSM-S-486	4	Pfal IC50 (Dundee)	1.15	=				1.15										OCC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(cc4)C(F)(F)F	PDJUGAPLRLVSPE-UHFFFAOYSA-N
+OSM-S-494	4	Pfal IC50 (Dundee)	10	>				>10										NC(=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	INLVQLIAJLYDGP-UHFFFAOYSA-N
+OSM-S-495	4	Pfal IC50 (Dundee)	10	>				>10										NC(=O)c1cccc(c1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	SUVZMBHYRLCWQO-UHFFFAOYSA-N
+OSM-S-496	4	Pfal IC50 (Dundee)	3.69	=				3.69										CN(C)C(=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	VILLYIKHHVUPAT-UHFFFAOYSA-N
+OSM-S-497	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCN4CCNCC4)n23	PLMTYPFHNQBXCS-UHFFFAOYSA-N
+OSM-S-498	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCN4CCOCC4)n23	SBJHRXFPKNPJRB-UHFFFAOYSA-N
+OSM-S-499	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCN4CCCCC4)n23	VHKQNGVJPUDTLR-UHFFFAOYSA-N
+OSM-S-500	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCN4CCCC4)n23	CBYPWHTZBGGIHQ-UHFFFAOYSA-N
+OSM-S-501	4	Pfal IC50 (Dundee)	10	>				>10										CC(C)(C)OC(=O)N1CCN(CCOc2cncc3nnc(c4ccc(OC(F)F)cc4)n23)CC1	IQWMJMCFKRFOAK-UHFFFAOYSA-N
+OSM-S-503	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)(F)c1ncc(OCCc2ccccc2)n3c(nnc13)c4ccncc4	CRIOEXIRGOUJPE-UHFFFAOYSA-N
+OSM-S-504	4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3c(ncc(OCCc4ccccc4)n23)C(F)(F)F	JQNJPMCZRDTAFX-UHFFFAOYSA-N
+OSM-S-505	4	Pfal IC50 (Dundee)	10	>				>10										Oc1ncc(OCCc2ccccc2)n3c(nnc13)c4ccc(OC(F)F)cc4	AUEFCDYZHUAYCQ-UHFFFAOYSA-N
+OSM-S-506	4	Pfal IC50 (Dundee)	10	>				>10										NS(=O)(=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	LAEXWQNXYFZJGR-UHFFFAOYSA-N
+OSM-S-507	4	Pfal IC50 (Dundee)	10	>				>10										Fc1ccc(CCOc2cncc3nnc(c4ccc(cc4)C(=O)N5CCOCC5)n23)cc1F	UVYBVUBFTPXZED-UHFFFAOYSA-N
+OSM-S-508	4	Pfal IC50 (Dundee)	10	>				>10										CN1CCN(CC1)C(=O)c2cccc(c2)c3nnc4cncc(OCCc5ccc(F)c(F)c5)n34	AGXBROZGFUYMOG-UHFFFAOYSA-N
+OSM-S-510	4	Pfal IC50 (Dundee)	10	>				>10										CN1CCN(CC1)C(=O)c2ccc(cc2)c3nnc4cncc(OCCc5ccc(F)c(F)c5)n34	KQGRHFCAJKSETG-UHFFFAOYSA-N
+OSM-S-511	4	Pfal IC50 (Dundee)	9.8	>				>9.8										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC4C[C@@H]5C[C@H]4[C@@H]6O[C@H]56)n23	ODZWUXZHRJYWIV-AUENPLLUSA-N
+OSM-S-512	4	Pfal IC50 (Dundee)	11	>				>11										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC4C[C@@H]5C[C@H]4[C@H]6O[C@@H]56)n23	ODZWUXZHRJYWIV-FAXSGNTCSA-N
+OSM-S-513	4	Pfal IC50 (Dundee)	1	>				>1										OC12C3C4C1C5C2C3C45CCOc6cncc7nnc(c8ccc(OC(F)F)cc8)n67	LLMZELBAKVZCME-UHFFFAOYSA-N
+OSM-S-514	4	Pfal IC50 (Dundee)	3.3	>				>3.3										OC12C3C4C5C(C14)C2(CCOc6cncc7nnc(c8ccc(OC(F)F)cc8)n67)C35	HOJTWLDVMYKZDM-UHFFFAOYSA-N
+OSM-S-515	4	Pfal IC50 (Dundee)	3.88	=				3.88										OC(=O)C(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	FICNFVPYGUTYFV-UHFFFAOYSA-N
+OSM-S-516	4	Pfal IC50 (Dundee)	5.19	=	2.96			5.19										FC(F)Oc1ccc(cc1)c2nnc3cncc(Oc4ccc(Cl)cc4)n23	WXNPYOXFQUYIOI-UHFFFAOYSA-N
+OSM-S-517	4	Pfal IC50 (Dundee)	19	>				>19										Fc1ccc(CCOc2cncc3nnc(N4CCOCC4)n23)cc1F	BBKXHWRASNHAOR-UHFFFAOYSA-N
+OSM-S-518	4	Pfal IC50 (Dundee)	1.51	=				1.51										Fc1ccc(CCOc2cncc3nnc(N4CCC(F)(F)CC4)n23)cc1F	QEKAFCQAHVHCHN-UHFFFAOYSA-N
+OSM-S-519	4	Pfal IC50 (Dundee)	8.46	=				8.46										FC1CCN(CC1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	XGYZBGPCRAEWAT-UHFFFAOYSA-N
+OSM-S-520	4	Pfal IC50 (Dundee)	2.75	=				2.75										Fc1ccc(CCOc2cncc3nnc(N4CCC(CC4)C(F)(F)F)n23)cc1F	VSNCNIYPDHLNGV-UHFFFAOYSA-N
+OSM-S-521	4	Pfal IC50 (Dundee)	25	>				>25										CN1CCN(CC1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	PXDXCQZMCIITIC-UHFFFAOYSA-N
+OSM-S-522	4	Pfal IC50 (Dundee)	25	>				>25										CN(C)C(=O)c1cccc(c1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	PWLRVFJPMJABKE-UHFFFAOYSA-N
+OSM-S-523	4	Pfal IC50 (Dundee)	25	>				>25										Fc1ccc(CCOc2cncc3nnc(OCCc4ccc(F)c(F)c4)n23)cc1F	PCFGQRSVXZZXPK-UHFFFAOYSA-N
+OSM-S-524	4	Pfal IC50 (Dundee)	17	>				>17										Fc1ccc(CCOc2cncc3nnc(c4ccc(cc4)N5CCOCC5)n23)cc1F	YZCOBAJWPPWSFU-UHFFFAOYSA-N
+OSM-S-525	4	Pfal IC50 (Dundee)	0.086	=				0.086, 0.127										Fc1ccc(CCOc2cncc3nnc(c4ccc5cc[nH]c5c4)n23)cc1F	VHFREJHLTSVZGA-UHFFFAOYSA-N
+OSM-S-525	4	Pfal IC50 (Dundee)	0.127	=				0.086, 0.127										Fc1ccc(CCOc2cncc3nnc(c4ccc5cc[nH]c5c4)n23)cc1F	VHFREJHLTSVZGA-UHFFFAOYSA-N
+OSM-S-526	4	Pfal IC50 (Dundee)	13	=				13										Nc1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	PGJZGRJIPPSPJV-UHFFFAOYSA-N
+OSM-S-527	4	Pfal IC50 (Dundee)	20	>				>20										Fc1ccc(CCOc2cncc3nnc(c4ccc(cc4)N5CCCCC5)n23)cc1F	IBAQRAIPMINXCX-UHFFFAOYSA-N
+OSM-S-528	4	Pfal IC50 (Dundee)	22	>				>22										Fc1ccc(CCOc2cncc3nnc(c4ccc(cc4)N5CCCC5)n23)cc1F	MKNMPQGWOUWNLB-UHFFFAOYSA-N
+OSM-S-529	4	Pfal IC50 (Dundee)	25	>				>25										CC(=O)Nc1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	PLEIRUOVWBUIKA-UHFFFAOYSA-N
+OSM-S-530	4	Pfal IC50 (Dundee)	25	>				>25										CC(=O)Nc1cccc(c1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	DFKJCMXUKUTORD-UHFFFAOYSA-N
+OSM-S-531	4	Pfal IC50 (Dundee)	5.53	=				5.53										CN(C)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	DWKVYGNKXDMKJI-UHFFFAOYSA-N
+OSM-S-532	4	Pfal IC50 (Dundee)	0.059	=				0.059										OCC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4cccc(OCc5ccccc5)c4	MNCMMCAPVFCUDR-UHFFFAOYSA-N
+OSM-S-533	4	Pfal IC50 (Dundee)	0.382	=				0.382										OCC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4cccc(O)c4	OKGRHDYGIKFDNY-UHFFFAOYSA-N
+OSM-S-535	4	Pfal IC50 (Dundee)	8.6	=				8.6										CC(C)(C)OC(=O)N[C@@H](COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)Cc4ccccc4	SDPYEXOSVNFLTG-LJQANCHMSA-N
+OSM-S-536	4	Pfal IC50 (Dundee)	17	=				17										N[C@@H](COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)Cc4ccccc4	FXPPGJNSMWQGRD-MRXNPFEDSA-N
+OSM-S-537	4	Pfal IC50 (Dundee)	10	=				10										CC(C)(C)OC(=O)N[C@H](COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)Cc4ccccc4	SDPYEXOSVNFLTG-IBGZPJMESA-N
+OSM-S-538	4	Pfal IC50 (Dundee)	2.3	=				2.3										N[C@H](COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)Cc4ccccc4	FXPPGJNSMWQGRD-INIZCTEOSA-N
+OSM-S-539	4	Pfal IC50 (Dundee)	11.52	=				11.52										CNc1ccc(cc1)C(CO)COc2cncc3nnc(c4ccc(OC(F)F)cc4)n23	YOPBTMOYZOBXTE-UHFFFAOYSA-N
+OSM-S-542	4	Pfal IC50 (Dundee)	25	>				>25										Fc1ccc(CCOc2cncc3nnc(n4cccn4)n23)cc1F	ACHYQCFQKMAIMF-UHFFFAOYSA-N
+OSM-S-544	4	Pfal IC50 (Dundee)	25	>				>25										Fc1ccc(CCOc2cncc3nnc(Oc4ccc(Cl)cc4)n23)cc1F	ZAKLZMUOIOUUEH-UHFFFAOYSA-N
+OSM-S-545	4	Pfal IC50 (Dundee)	7	=				7										CN(C)c1cccc(c1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	CHKSIGXRRUITRE-UHFFFAOYSA-N
+OSM-S-546	4	Pfal IC50 (Dundee)	0.434	=				0.434										Fc1ccc(CCOc2cncc3nnc(c4ccc5c[nH]nc5c4)n23)cc1F	CGVAIQJJRYJQMC-UHFFFAOYSA-N
+OSM-S-547	4	Pfal IC50 (Dundee)	4.9	=				4.9										Fc1ccc(CCOc2cncc3nnc(c4cccc5[nH]ccc45)n23)cc1F	BAKHABOPVVJMJZ-UHFFFAOYSA-N
+OSM-S-548	4	Pfal IC50 (Dundee)	0.045	=				0.045										Nc1cc(ccc1Cl)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	UUAZLIWHOSTWRP-UHFFFAOYSA-N
+OSM-S-549	4	Pfal IC50 (Dundee)	2.8	=				2.8										Nc1cccc(c1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	CQZOPOXKTPBXOH-UHFFFAOYSA-N
+OSM-S-550	4	Pfal IC50 (Dundee)	0.144	=				0.144										CCc1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	GYRZMHSUHLZDJA-UHFFFAOYSA-N
+OSM-S-551	4	Pfal IC50 (Dundee)	25	>				>25										OC(=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	UMTJNRMURJHRAT-UHFFFAOYSA-N
+OSM-S-552	4	Pfal IC50 (Dundee)	25	>				>25										OC(=O)c1cccc(c1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	GYFXXYGBOJTVGJ-UHFFFAOYSA-N
+OSM-S-553	4	Pfal IC50 (Dundee)	0.98	=				0.98										[O-][N+](=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	ANXKNNLWLQBISN-UHFFFAOYSA-N
+OSM-S-554	4	Pfal IC50 (Dundee)	25	>				>25										OC(COc1cncc2nnc(C3CCCNC3)n12)c4ccccc4	SNDLBGDEOQPBOQ-UHFFFAOYSA-N
+OSM-S-555	4	Pfal IC50 (Dundee)	25	>				>25										Fc1ccc(CCOc2cncc3nnc(C4CCCNC4)n23)cc1F	DRTAQDBSMNPECX-UHFFFAOYSA-N
+OSM-S-556	4	Pfal IC50 (Dundee)	0.659	=				0.659, 0.146										OCC(O)(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	LVBNVRWXODMMAV-UHFFFAOYSA-N
+OSM-S-556	4	Pfal IC50 (Dundee)	0.146	=				0.659, 0.146										OCC(O)(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	LVBNVRWXODMMAV-UHFFFAOYSA-N
+OSM-S-557	4	Pfal IC50 (Dundee)	0.069	=				0.069										OCC(COc1cncc2nnc(c3ccc4cc[nH]c4c3)n12)c5ccccc5	XPFWGOXNOABZNA-UHFFFAOYSA-N
+OSM-S-558	4	Pfal IC50 (Dundee)	25	>				>25										CN(C)c1ccc(cc1)C2(COc3cncc4nnc(c5ccc(OC(F)F)cc5)n34)COC(C)(C)O2	QNYUKWXXUMWURS-UHFFFAOYSA-N
+OSM-S-559	4	Pfal IC50 (Dundee)	0.149	=				0.149										CC1(C)OCC(COc2cncc3nnc(c4ccc(OC(F)F)cc4)n23)(O1)c5ccc(F)c(F)c5	AUPGROSOGHDOGI-UHFFFAOYSA-N
+OSM-S-560	4	Pfal IC50 (Dundee)	0.267	=				0.267, 0.842										OCC(O)(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(F)c(F)c4	GXKONCOXFIUYEL-UHFFFAOYSA-N
+OSM-S-560	4	Pfal IC50 (Dundee)	0.842	=				0.267, 0.842										OCC(O)(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccc(F)c(F)c4	GXKONCOXFIUYEL-UHFFFAOYSA-N
+OSM-S-562	4	Pfal IC50 (Dundee)	0.337	=				0.337										CC1(C)OCC(COc2cncc3nnc(c4ccc(OC(F)F)cc4)n23)(O1)c5ccccc5	VBOKZAGPDKNJEQ-UHFFFAOYSA-N
+OSM-S-564	4	Pfal IC50 (Dundee)	0.117	=				0.117										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCC[C]4BBBBBBBB[CH]BB4)n23	BYDBKGSAFBHXHO-UHFFFAOYSA-N
+OSM-S-565	4	Pfal IC50 (Dundee)	25	>				>25										OCC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4OCc5ccccc5	NGZQBMVQKLXCFS-UHFFFAOYSA-N
+OSM-S-566	4	Pfal IC50 (Dundee)	3.849	=				3.849										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCc4ccc(OCc5ccccc5)cc4)n23	XFBPGJAKOMHHKZ-UHFFFAOYSA-N
+OSM-S-567	4	Pfal IC50 (Dundee)	0.147	=				0.147										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCc4cccc(OCc5ccccc5)c4)n23	CGZBFPBJKVQMJF-UHFFFAOYSA-N
+OSM-S-568	4	Pfal IC50 (Dundee)	25	>				>25										CN(C)c1ccc(cc1)C(O)(CO)COc2cncc3nnc(c4ccc(OC(F)F)cc4)n23	XLVBTEMBQJMBDA-UHFFFAOYSA-N
+OSM-S-571	4	Pfal IC50 (Dundee)	1.05	=				1.05										FC(F)Oc1ccc(cc1)c2nnc3cncc(SCCc4ccccc4)n23	GFJJCWGNCVLFNL-UHFFFAOYSA-N
+OSM-S-572	4	Pfal IC50 (Dundee)	14.5	=				14.5										CC(C)(C)OC(=O)N1CCC(CC1)c2nnc3cncc(OCCc4ccccc4)n23	QGAWBQPLDGJFLD-UHFFFAOYSA-N
+OSM-S-573	4	Pfal IC50 (Dundee)	25	>				>25										C(Cc1ccccc1)Oc2cncc3nnc(C4CCOCC4)n23	YFBDXIIKLFDPQE-UHFFFAOYSA-N
+OSM-S-574	4	Pfal IC50 (Dundee)	25	>				>25										CC(C)(C)OC(=O)N1CCC(C1)c2nnc3cncc(OCCc4ccccc4)n23	HGLXYGXXFKFILC-UHFFFAOYSA-N
+OSM-S-575	4	Pfal IC50 (Dundee)	25	>				>25										C(Cc1ccccc1)Oc2cncc3nnc(C4CCOC4)n23	SBUYDARTZYGJBS-UHFFFAOYSA-N
+OSM-S-576	4	Pfal IC50 (Dundee)	25	>				>25										C(Cc1ccccc1)Oc2cncc3nnc(C4CCNCC4)n23	QWXIVICLDFUZFI-UHFFFAOYSA-N
+OSM-S-577	4	Pfal IC50 (Dundee)	25	>				>25										C(Cc1ccccc1)Oc2cncc3nnc(C4CCNC4)n23	XMFSPYQJWNPEAS-UHFFFAOYSA-N
+OSM-S-578	4	Pfal IC50 (Dundee)	1.32	=				1.32										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCCc4ccccc4)n23	JNQZAPNWBVAOJV-UHFFFAOYSA-N
+OSM-S-579	4	Pfal IC50 (Dundee)	25	>				>25										FC(F)Oc1ccc(cc1)c2nnc3cncc(Oc4ccccc4)n23	UTIUAZFJLHTVFG-UHFFFAOYSA-N
+OSM-S-580	4	Pfal IC50 (Dundee)	1.21	=				1.21										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCOc4ccccc4)n23	LIQWNTBRXAAMDF-UHFFFAOYSA-N
+OSM-S-581	4	Pfal IC50 (Dundee)	25	>				>25										Fc1ccc(CCOc2cncc3nnc(n4ccnc4)n23)cc1F	WQBHKNFYSCUMJC-UHFFFAOYSA-N
+OSM-S-582	4	Pfal IC50 (Dundee)	0.375	=				0.375										Cn1ccc2ccc(cc12)c3nnc4cncc(OCCc5ccc(F)c(F)c5)n34	YDNZCOWSOGIBPE-UHFFFAOYSA-N
+OSM-S-583	4	Pfal IC50 (Dundee)	25	>				>25										Fc1ccc(CCOc2cncc3nnc(c4ccc5CC(=O)Nc5c4)n23)cc1F	PUDALCIATSASSD-UHFFFAOYSA-N
+OSM-S-584	4	Pfal IC50 (Dundee)	1.01	=				1.01										Fc1ccc(CCOc2cncc3nnc(c4ccc5CCNc5c4)n23)cc1F	FNBXJZBLBXZUFU-UHFFFAOYSA-N
+OSM-S-585	4	Pfal IC50 (Dundee)	0.813	=				0.813										Nc1cc(ccc1F)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	VZPHEOZUAXBEIA-UHFFFAOYSA-N
+OSM-S-586;OSM-S-636	4	Pfal IC50 (Dundee)	25	>				>25;>25										Fc1ccc(CCOc2cncc3nnc(c4ccc5[nH]cnc5c4)n23)cc1F	OKICKLNNAMYKHW-UHFFFAOYSA-N
+OSM-S-586;OSM-S-636	4	Pfal IC50 (Dundee)	25	>				>25;>25										Fc1ccc(CCOc2cncc3nnc(c4ccc5[nH]cnc5c4)n23)cc1F	OKICKLNNAMYKHW-UHFFFAOYSA-N
+OSM-S-588	4	Pfal IC50 (Dundee)	25	>				>25										O[C@@H](CNc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	MOIHJTIFLGFROE-INIZCTEOSA-N
+OSM-S-589	4	Pfal IC50 (Dundee)	25	>				>25										O[C@H](CNc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	MOIHJTIFLGFROE-MRXNPFEDSA-N
+OSM-S-591	4	Pfal IC50 (Dundee)	25	>				>25										COc1ccc(CCNc2cncc3nnc(c4ccc(OC(F)F)cc4)n23)cc1OC	VDXJYWCEOGLVSA-UHFFFAOYSA-N
+OSM-S-607	4	Pfal IC50 (Dundee)	0.627	=				0.627										CC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	YELIMUUXHYJNPF-UHFFFAOYSA-N
+OSM-S-608	4	Pfal IC50 (Dundee)	0.282	=				0.282										FC(F)Oc1ccc(cc1)c2nnc3cncc(OCCc4cccs4)n23	RMZMYNQAPRIYLW-UHFFFAOYSA-N
+OSM-S-609	4	Pfal IC50 (Dundee)	6.132	=				6.132										OCC(CO)(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)c4ccccc4	JCCXTGDCGIGQKA-UHFFFAOYSA-N
+OSM-S-623	4	Pfal IC50 (Dundee)	1.827	=				1.827										COc1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	FOEYJDQRLPZFOG-UHFFFAOYSA-N
+OSM-S-624	4	Pfal IC50 (Dundee)	1.693	=				1.693										[O-][N+](=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccccc4)n23	XKYBKXJISXRHEZ-UHFFFAOYSA-N
+OSM-S-626	4	Pfal IC50 (Dundee)	25	>				>25										COc1ccc(cc1)c2nnc3cncc(SCCc4ccccc4)n23	XKLPATLXLSUHOI-UHFFFAOYSA-N
+OSM-S-635	4	Pfal IC50 (Dundee)	25	>				>25										Fc1ccc(CCOc2cncc3nnc(OCc4cccnc4)n23)cc1F	KXBYYTPVSDHELS-UHFFFAOYSA-N
+OSM-S-637	4	Pfal IC50 (Dundee)	17.04	=				17.04										Nc1ccc(cc1)C(CO)COc2cncc3nnc(c4ccc(OC(F)F)cc4)n23	DWSRIPSLMMOTPD-UHFFFAOYSA-N
+OSM-S-638	4	Pfal IC50 (Dundee)	25	>				>25										FC(F)Oc1ccc(cc1)c2nnc3cncc(NCc4ccccc4)n23	GWROJQFCRZTYNJ-UHFFFAOYSA-N
+OSM-S-639	4	Pfal IC50 (Dundee)	25	>				>25										OCC(COc1cncc2nnc(c3ccc(OC(F)F)cc3)n12)(COc4cncc5nnc(c6ccc(OC(F)F)cc6)n45)c7ccccc7	SBKLVTZSIUTYAA-UHFFFAOYSA-N
+OSM-W-10	4	Pfal (3D7) IC50 (Broad)	0.159	=												0.159	0.123	Fc1ccc(CCOc2cncc3nnc(c4ccc(Cl)cc4)n23)cc1	XVAUKWCYBQWUDV-UHFFFAOYSA-N
+OSM-W-10	4	Pfal (Dd2) IC50 (Broad)	0.123	=												0.159	0.123	Fc1ccc(CCOc2cncc3nnc(c4ccc(Cl)cc4)n23)cc1	XVAUKWCYBQWUDV-UHFFFAOYSA-N
+OSM-W-3	4	Pfal (3D7) IC50 (Broad)	2.85	=												2.85	2.74	CS(=O)(=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)cc4)n23	HQWGUOKCAHGSFB-UHFFFAOYSA-N
+OSM-W-3	4	Pfal (Dd2) IC50 (Broad)	2.74	=												2.85	2.74	CS(=O)(=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)cc4)n23	HQWGUOKCAHGSFB-UHFFFAOYSA-N
+OSM-W-5	4	Pfal (3D7) IC50 (Broad)	0.698	=												0.698	1.486	CS(=O)(=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	ISCYIQSGKXBNIC-UHFFFAOYSA-N
+OSM-W-5	4	Pfal (Dd2) IC50 (Broad)	1.486	=												0.698	1.486	CS(=O)(=O)c1ccc(cc1)c2nnc3cncc(OCCc4ccc(F)c(F)c4)n23	ISCYIQSGKXBNIC-UHFFFAOYSA-N
+OSM-W-6	4	Pfal (3D7) IC50 (Broad)	2.931	=												2.931	5.418	Fc1ccc(CC(=O)Nc2cncc3nnc(c4ccc(cc4)C#N)n23)cc1F	WXNSEGHVFXDZGF-UHFFFAOYSA-N
+OSM-W-6	4	Pfal (Dd2) IC50 (Broad)	5.418	=												2.931	5.418	Fc1ccc(CC(=O)Nc2cncc3nnc(c4ccc(cc4)C#N)n23)cc1F	WXNSEGHVFXDZGF-UHFFFAOYSA-N
+OSM-W-7	4	Pfal (3D7) IC50 (Broad)	10	=												10	10	Fc1ccc(CCC(=O)Nc2cncc3nnc(c4ccc(cc4)C#N)n23)cc1F	SMRNZXNRFZNBAW-UHFFFAOYSA-N
+OSM-W-7	4	Pfal (Dd2) IC50 (Broad)	10	=												10	10	Fc1ccc(CCC(=O)Nc2cncc3nnc(c4ccc(cc4)C#N)n23)cc1F	SMRNZXNRFZNBAW-UHFFFAOYSA-N
+OSM-W-8	4	Pfal (3D7) IC50 (Broad)	0.934	=												0.934	0.701	Fc1ccc(CCOc2cncc3nnc(c4ccc(cc4)C#N)n23)cc1	YZWJDRUGHLMWSX-UHFFFAOYSA-N
+OSM-W-8	4	Pfal (Dd2) IC50 (Broad)	0.701	=												0.934	0.701	Fc1ccc(CCOc2cncc3nnc(c4ccc(cc4)C#N)n23)cc1	YZWJDRUGHLMWSX-UHFFFAOYSA-N
+OSM-W-9	4	Pfal (3D7) IC50 (Broad)	0.294	=												0.294	0.264	Fc1ccc(CCOc2cncc3nnc(c4ccc(cc4)C#N)n23)cc1F	QCWAKDMVWCGQRY-UHFFFAOYSA-N
+OSM-W-9	4	Pfal (Dd2) IC50 (Broad)	0.264	=												0.294	0.264	Fc1ccc(CCOc2cncc3nnc(c4ccc(cc4)C#N)n23)cc1F	QCWAKDMVWCGQRY-UHFFFAOYSA-N
+OSM-E-15	not4	Pfal IC50 (Syngene)	3.5	=			3.5											Fc1ccc(CCOc2cccc3nnc(c4ccc(cc4)C#N)n23)cc1F	JCMCKOQZSFBPIN-UHFFFAOYSA-N
+OSM-E-16	not4	Pfal IC50 (Syngene)	5.2	=			5.2											Clc1ccccc1CCOc2cccc3nnc(c4ccc(cc4)C#N)n23	APTFJFHOJWNXBX-UHFFFAOYSA-N
+OSM-E-17	not4	Pfal IC50 (Syngene)	6.8	=			6.8											N#Cc1ccc(cc1)c2nnc3cccc(OCCc4ccccc4)n23	PLXIJFIDAXQTSX-UHFFFAOYSA-N
+OSM-E-18	not4	Pfal IC50 (Syngene)	50	>			>50											Clc1cccc(NN=Cc2ccc(cc2)C#N)n1	WOEMAXIGZYIWII-UHFFFAOYSA-N
+OSM-E-19	not4	Pfal IC50 (Syngene)	50	>			>50											Clc1cccc2nnc(c3ccc(cc3)C#N)n12	ROKQDRVNUIOPKS-UHFFFAOYSA-N
+OSM-E-20	not4	Pfal IC50 (Syngene)	50	>			>50											FC(F)(F)c1cc(NC(=O)c2cccc(Cl)n2)ccn1	VNCOWSRRKZJWES-UHFFFAOYSA-N
+OSM-E-21	not4	Pfal IC50 (Syngene)	50	>			>50											FC(F)(F)c1cc(NC(=O)c2cccc(NN=Cc3ccc(cc3)C#N)n2)ccn1	HITQOKWUFWDBPF-UHFFFAOYSA-N
+OSM-E-22	not4	Pfal IC50 (Syngene)	50	>			>50											FC(F)(F)c1cc(NC(=O)c2cccc3nnc(c4ccc(cc4)C#N)n23)ccn1	PGPJMFWOQCDCCV-UHFFFAOYSA-N
+OSM-S-328	not4	Pfal IC50 (Dundee)	10	>				>10										Oc1nccn2c(nnc12)c3ccc(OC(F)F)cc3	NRBGBUNTESVJLL-UHFFFAOYSA-N
+OSM-S-363	not4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3c(SCCc4ccccc4)nccn23	KBHHUJAAUNEUJP-UHFFFAOYSA-N
+OSM-S-387	not4	Pfal IC50 (Dundee)	10	>				>10										Fc1ccc(CCOc2cncc3nncn23)cc1F	YHNADHDORQAQNL-UHFFFAOYSA-N
+OSM-S-388	not4	Pfal IC50 (Dundee)	10	>				>10										Oc1nnc2c(nccn12)N3CCCCC3	TZDXHSBXELOCAE-UHFFFAOYSA-N
+OSM-S-410	not4	Pfal IC50 (Dundee)	5	>				>5										FC(F)Oc1ccc(cc1)c2nnc3C(=O)NC=C(C(=O)Nc4ccc(Cl)cc4)n23	SOVUBMPMKMEPEE-UHFFFAOYSA-N
+OSM-S-417	not4	Pfal IC50 (Dundee)	10	>				>10										C(Cc1ccccc1)Oc2nnc3c(nccn23)N4CCCCC4	UGDHWGVLTGKDHK-UHFFFAOYSA-N
+OSM-S-502	not4	Pfal IC50 (Dundee)	8	>				>8										OCCc1cn(c2nccn3c(nnc23)c4ccc(OC(F)F)cc4)c5ccccc15	RYGYOYDNHPXBSD-UHFFFAOYSA-N
+OSM-S-509	not4	Pfal IC50 (Dundee)	10	>				>10										FC(F)Oc1ccc(cc1)c2nnc3c(nccn23)N4CCOCC4	GXUMGQHMGACMED-UHFFFAOYSA-N
+OSM-S-543	not4	Pfal IC50 (Dundee)	19	>				>19										Fc1ccc(CCOc2nccn3c(nnc23)n4cccn4)cc1F	ZXJLKQGJXOAUOQ-UHFFFAOYSA-N
+OSM-S-561	not4	Pfal IC50 (Dundee)	25	>				>25										CC(=O)COc1nccn2c(nnc12)c3ccc(OC(F)F)cc3	MXHWALUHBSFDFZ-UHFFFAOYSA-N
+OSM-S-563	not4	Pfal IC50 (Dundee)	20	=				20										FC(F)Oc1ccc(cc1)c2nnc3c(NCc4ccccc4)nccn23	YQPNVUSTPHQUIF-UHFFFAOYSA-N
+OSM-S-569	not4	Pfal IC50 (Dundee)	25	>				>25										FC(F)Oc1ccc(cc1)c2nnc3c(NCCc4ccccc4)nccn23	JFZKBRTVRMLMOX-UHFFFAOYSA-N
+OSM-S-570	not4	Pfal IC50 (Dundee)	5.62	=				5.62										FC(F)Oc1ccc(cc1)c2nnc3c(SCc4ccccc4)nccn23	JDPMDXDHQOZVJL-UHFFFAOYSA-N
+OSM-S-621	not4	Pfal IC50 (Dundee)	8.73	=				8.73										C(Cc1ccccc1)Oc2nccn3c(nnc23)c4ccccc4	BKUOBYRSGGKOSW-UHFFFAOYSA-N
+OSM-S-622	not4	Pfal IC50 (Dundee)	25	>				>25										COc1ccc(cc1)c2nnc3c(OCCc4ccccc4)nccn23	KNDAUWHMGBUKCB-UHFFFAOYSA-N
+OSM-S-625	not4	Pfal IC50 (Dundee)	25	>				>25										[O-][N+](=O)c1ccc(cc1)c2nnc3c(OCCc4ccccc4)nccn23	QMCCJGVEGJOFQH-UHFFFAOYSA-N
+OSM-S-627	not4	Pfal IC50 (Dundee)	25	>				>25										COc1ccc(cc1)c2nnc3c(SCCc4ccccc4)nccn23	GEUZYLOQEWPPTC-UHFFFAOYSA-N
+OSM-S-628	not4	Pfal IC50 (Dundee)	3.082	=				3.082										C(Cc1ccccc1)Sc2nccn3c(nnc23)c4ccccc4	PXOUQPVRLQGOLD-UHFFFAOYSA-N
+OSM-S-629	not4	Pfal IC50 (Dundee)	25	>				>25										[O-][N+](=O)c1ccc(cc1)c2nnc3c(SCCc4ccccc4)nccn23	NHMKPHMAQGUBEJ-UHFFFAOYSA-N
+OSM-S-630	not4	Pfal IC50 (Dundee)	25	>				>25										C(Cc1ccccc1)Nc2nccn3c(nnc23)c4ccccc4	UVSSRDWLOVROPH-UHFFFAOYSA-N
+OSM-S-631	not4	Pfal IC50 (Dundee)	25	>				>25										COc1ccc(cc1)c2n[nH]c(n2)c3nccn3CCc4ccccc4	GMUJQXIGXGQBCQ-UHFFFAOYSA-N
+OSM-S-632	not4	Pfal IC50 (Dundee)	25	>				>25										COc1ccc(cc1)c2nnc3c(NCCc4ccccc4)nccn23	ZZFSYDDMUBYAFS-UHFFFAOYSA-N
+OSM-S-633	not4	Pfal IC50 (Dundee)	25	>				>25										[O-][N+](=O)c1ccc(cc1)c2nnc3c(NCCc4ccccc4)nccn23	HFBSNRIFQOQABE-UHFFFAOYSA-N
+OSM-W-4	not4	Pfal (3D7) IC50 (Broad)	100	=												100	100	Fc1ccc(CCOc2cncc(Nc3nnc(s3)c4ccccc4)n2)cc1	ATSWIRSPSBQXBQ-UHFFFAOYSA-N
+OSM-W-4	not4	Pfal (Dd2) IC50 (Broad)	100	=												100	100	Fc1ccc(CCOc2cncc(Nc3nnc(s3)c4ccccc4)n2)cc1	ATSWIRSPSBQXBQ-UHFFFAOYSA-N
+OSM-S-194	TB	Pfal IC50 (GSK)	1.033	=		1.033												C(N1CCC2(CC1)OCCc3c2[nH]c4ccccc34)c5ccccc5	ZZRXZXUKZZBHSK-UHFFFAOYSA-N
